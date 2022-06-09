@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-23.1:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
+DEPEND=app-emacs/magit-section app-emacs/transient
+DESCRIPTION=Major mode for editing .nix files
+EAPI=8
+HOMEPAGE=https://github.com/NixOS/nix-mode
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/magit-section app-emacs/transient >=app-editors/emacs-23.1:*
+SLOT=0
+SRC_URI=https://elpa.nongnu.org/nongnu/nix-mode-1.5.0.tar
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	79f8e13c80c89792e5c9b3fc8ef59f3b	elisp	8aab2c847b5894dc40503ae1d203abcf	gs-elpa	821b8c2fedd41b8ddf1cdbe535d920e4
+_md5_=8766056600d138471a5ca798226d34cd
