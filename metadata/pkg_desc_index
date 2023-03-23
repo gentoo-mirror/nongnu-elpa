@@ -19,7 +19,7 @@ app-emacs/buttercup 1.30: Behavior-Driven Emacs Lisp Testing
 app-emacs/camera 0.2: Take picture with your camera
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cdlatex 4.14: Fast input methods for LaTeX environments and math
-app-emacs/cider 1.6.0: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 1.7.0: Clojure Interactive Development Environment that Rocks
 app-emacs/clojure-mode 5.16.0: Major mode for Clojure code
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
 app-emacs/corfu-terminal 0.5: Corfu popup on terminal
