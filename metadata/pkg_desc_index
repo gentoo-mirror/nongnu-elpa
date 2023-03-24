@@ -39,7 +39,7 @@ app-emacs/eat 0.6: Emulate A Terminal, in a region, in a buffer and in Eshell
 app-emacs/edit-indirect 0.1.10: Edit regions in separate buffers
 app-emacs/editorconfig 0.9.1: EditorConfig Emacs Plugin
 app-emacs/elixir-mode 2.4.0: Major mode for editing Elixir files
-app-emacs/elpher 3.4.2: A friendly gopher and gemini client
+app-emacs/elpher 3.4.3: A friendly gopher and gemini client
 app-emacs/engine-mode 2.2.1: Define and query search engines from within Emacs
 app-emacs/evil 1.15.0: extensible vi layer
 app-emacs/evil-anzu 0.2: anu for evil-mode
