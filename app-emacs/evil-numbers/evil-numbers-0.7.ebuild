@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Incrementdecrement numbers like in VIM"
+DESCRIPTION="Increment/decrement numbers like in VIM"
 
 HOMEPAGE="http://github.com/juliapath/evil-numbers"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

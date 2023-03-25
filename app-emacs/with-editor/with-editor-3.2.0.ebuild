@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Use the Emacsclient as EDITOR"
+DESCRIPTION="Use the Emacsclient as \$EDITOR"
 
 HOMEPAGE="https://github.com/magit/with-editor"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

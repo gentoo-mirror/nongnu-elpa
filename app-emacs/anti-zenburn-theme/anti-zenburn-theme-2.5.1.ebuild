@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Low-contrast enburn-inverted theme"
+DESCRIPTION="Low-contrast Zenburn-inverted theme"
 
 HOMEPAGE="https://github.com/m00natic/anti-zenburn-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>MITGNU Schemes implementation of the geiser protocols</longdescription>
+	<longdescription>MIT/GNU Scheme's implementation of the geiser protocols</longdescription>
 </pkgmetadata>

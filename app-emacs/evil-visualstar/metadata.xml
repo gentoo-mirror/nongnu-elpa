@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Starts a  or  search from the visual selection</longdescription>
+	<longdescription>Starts a * or # search from the visual selection</longdescription>
 </pkgmetadata>

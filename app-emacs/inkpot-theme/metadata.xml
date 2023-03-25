@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>A port of vims inkpot theme</longdescription>
+	<longdescription>A port of vim's inkpot theme</longdescription>
 </pkgmetadata>

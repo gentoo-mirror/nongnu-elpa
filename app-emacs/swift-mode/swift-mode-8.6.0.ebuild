@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major-mode for Apples Swift programming language"
+DESCRIPTION="Major-mode for Apple's Swift programming language"
 
 HOMEPAGE="https://github.com/swift-emacs/swift-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Sylvester the Cats Common Lisp IDE"
+DESCRIPTION="Sylvester the Cat's Common Lisp IDE"
 
 HOMEPAGE="https://github.com/joaotavora/sly"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

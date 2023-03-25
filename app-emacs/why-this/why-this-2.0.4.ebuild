@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Why is this line here  Ask version control"
+DESCRIPTION="Why is this line here?  Ask version control"
 
 HOMEPAGE="https://codeberg.org/akib/emacs-why-this"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

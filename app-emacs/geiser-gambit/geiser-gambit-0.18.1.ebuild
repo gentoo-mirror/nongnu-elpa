@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Gambits implementation of the geiser protocols"
+DESCRIPTION="Gambit's implementation of the geiser protocols"
 
 HOMEPAGE="https://gitlab.com/emacs-geiser/gambit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A major mode for the ig programming language"
+DESCRIPTION="A major mode for the Zig programming language"
 
 HOMEPAGE="https://github.com/zig-lang/zig-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="fuy matching with good sorting"
+DESCRIPTION="fuzzy matching with good sorting"
 
 HOMEPAGE="https://github.com/lewang/flx"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

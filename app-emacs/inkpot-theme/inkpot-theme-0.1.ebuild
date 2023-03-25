@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A port of vims inkpot theme"
+DESCRIPTION="A port of vim's inkpot theme"
 
 HOMEPAGE="https://codeberg.com/ideasman42/emacs-inkpot-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

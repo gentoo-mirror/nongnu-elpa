@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Display diffs using alternative diffing tools</longdescription>
+	<longdescription>Display diff's using alternative diffing tools</longdescription>
 </pkgmetadata>

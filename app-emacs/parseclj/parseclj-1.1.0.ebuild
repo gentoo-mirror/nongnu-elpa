@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="ClojureEDN parser"
+DESCRIPTION="Clojure/EDN parser"
 
 HOMEPAGE="https://elpa.nongnu.org/nongnu/parseclj.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

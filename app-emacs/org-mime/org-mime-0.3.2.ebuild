@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="org html export for texthtml MIME emails"
+DESCRIPTION="org html export for text/html MIME emails"
 
 HOMEPAGE="http://github.com/org-mime/org-mime"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

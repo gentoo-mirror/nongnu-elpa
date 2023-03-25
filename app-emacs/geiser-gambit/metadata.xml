@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Gambits implementation of the geiser protocols</longdescription>
+	<longdescription>Gambit's implementation of the geiser protocols</longdescription>
 </pkgmetadata>

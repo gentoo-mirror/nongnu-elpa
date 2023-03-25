@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Analye infoerror in shell-mode"
+DESCRIPTION="Analyze info&error in shell-mode"
 
 HOMEPAGE="https://github.com/redguardtoo/shellcop"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

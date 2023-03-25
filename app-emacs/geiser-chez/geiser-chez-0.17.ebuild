@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Che Schemes implementation of the geiser protocols"
+DESCRIPTION="Chez Scheme's implementation of the geiser protocols"
 
 HOMEPAGE="https://gitlab.com/emacs-geiser/chez"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

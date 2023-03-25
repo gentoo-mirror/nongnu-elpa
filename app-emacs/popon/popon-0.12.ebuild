@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Pop floating text on a window"
+DESCRIPTION="\"Pop\" floating text \"on\" a window"
 
 HOMEPAGE="https://codeberg.org/akib/emacs-popon"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
