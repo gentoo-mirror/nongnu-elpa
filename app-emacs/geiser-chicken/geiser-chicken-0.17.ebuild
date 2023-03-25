@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Chickens implementation of the geiser protocols"
+DESCRIPTION="Chicken's implementation of the geiser protocols"
 
 HOMEPAGE="https://gitlab.com/emacs-geiser/chicken"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

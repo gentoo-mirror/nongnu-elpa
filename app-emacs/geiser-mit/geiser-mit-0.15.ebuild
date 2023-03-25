@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="MITGNU Schemes implementation of the geiser protocols"
+DESCRIPTION="MIT/GNU Scheme's implementation of the geiser protocols"
 
 HOMEPAGE="https://gitlab.com/emacs-geiser/mit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

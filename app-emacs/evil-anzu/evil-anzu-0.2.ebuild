@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="anu for evil-mode"
+DESCRIPTION="anzu for evil-mode"
 
 HOMEPAGE="https://github.com/syohex/emacs-evil-anzu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

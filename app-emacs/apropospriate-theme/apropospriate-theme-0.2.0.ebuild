@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A light  dark theme set for Emacs."
+DESCRIPTION="A light & dark theme set for Emacs."
 
 HOMEPAGE="http://github.com/waymondo/apropospriate-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

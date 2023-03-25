@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Display diffs using alternative diffing tools"
+DESCRIPTION="Display diff's using alternative diffing tools"
 
 HOMEPAGE="https://codeberg.org/ideasman42/emacs-diff-ansi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Starts a  or  search from the visual selection"
+DESCRIPTION="Starts a * or # search from the visual selection"
 
 HOMEPAGE="https://github.com/bling/evil-visualstar"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

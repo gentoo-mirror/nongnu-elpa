@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing Dockers Dockerfiles"
+DESCRIPTION="Major mode for editing Docker's Dockerfiles"
 
 HOMEPAGE="https://github.com/spotify/dockerfile-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

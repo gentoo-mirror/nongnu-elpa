@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Chibi Schemes implementation of the geiser protocols"
+DESCRIPTION="Chibi Scheme's implementation of the geiser protocols"
 
 HOMEPAGE="https://gitlab.com/emacs-geiser/chibi"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

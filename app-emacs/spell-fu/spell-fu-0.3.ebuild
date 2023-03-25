@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Fast  light spelling highlighter"
+DESCRIPTION="Fast & light spelling highlighter"
 
 HOMEPAGE="https://codeberg.org/ideasman42/emacs-spell-fu"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
