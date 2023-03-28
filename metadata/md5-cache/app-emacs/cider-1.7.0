@@ -1,4 +1,4 @@
-BDEPEND=>=app-editors/emacs-23.1:*
+BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup unpack
 DEPEND=app-emacs/clojure-mode app-emacs/parseedn app-emacs/queue app-emacs/spinner app-emacs/seq app-emacs/sesman
 DESCRIPTION=Clojure Interactive Development Environment that Rocks
@@ -6,8 +6,8 @@ EAPI=8
 HOMEPAGE=http://www.github.com/clojure-emacs/cider
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/clojure-mode app-emacs/parseedn app-emacs/queue app-emacs/spinner app-emacs/seq app-emacs/sesman >=app-editors/emacs-23.1:*
+RDEPEND=app-emacs/clojure-mode app-emacs/parseedn app-emacs/queue app-emacs/spinner app-emacs/seq app-emacs/sesman >=app-editors/emacs-25.3:*
 SLOT=0
 SRC_URI=https://elpa.nongnu.org/nongnu/cider-1.7.0.tar
-_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	4f91d24ccf86f94b3f28c6470aab24d3	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	1d6e8d43be4713f04a441f721d890d48	elisp	4885a6bf2026d3a2d5b9789f3b76d1f3	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
 _md5_=2f33137a2aaa4f7f511e68e490cb98a7
