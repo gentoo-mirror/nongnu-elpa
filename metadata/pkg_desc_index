@@ -39,7 +39,7 @@ app-emacs/eat 0.8: Emulate A Terminal, in a region, in a buffer and in Eshell
 app-emacs/edit-indirect 0.1.10: Edit regions in separate buffers
 app-emacs/editorconfig 0.9.1: EditorConfig Emacs Plugin
 app-emacs/elixir-mode 2.4.0: Major mode for editing Elixir files
-app-emacs/elpher 3.4.3: A friendly gopher and gemini client
+app-emacs/elpher 3.5.0: A friendly gopher and gemini client
 app-emacs/engine-mode 2.2.1: Define and query search engines from within Emacs
 app-emacs/evil 1.15.0: extensible vi layer
 app-emacs/evil-anzu 0.2: anzu for evil-mode
@@ -188,7 +188,7 @@ app-emacs/typescript-mode 0.4: Major mode for editing typescript
 app-emacs/ujelly-theme 1.2.9: Ujelly theme for GNU Emacs 24 (deftheme)
 app-emacs/undo-fu 0.5: Undo helper with redo
 app-emacs/undo-fu-session 0.5: Persistent undo, available between sessions
-app-emacs/vc-fossil 20221120: VC backend for the fossil sofware configuraiton management system
+app-emacs/vc-fossil 20230504: VC backend for the fossil sofware configuraiton management system
 app-emacs/vcomplete 2.0: Visual completions
 app-emacs/visual-fill-column 2.5.1: fill-column for visual-line-mode
 app-emacs/web-mode 17.3.9: major mode for editing web templates
