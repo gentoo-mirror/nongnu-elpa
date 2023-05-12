@@ -5,18 +5,22 @@ EAPI=8
 
 REPO_URI="https://elpa.nongnu.org/nongnu/"
 SOURCE_TYPE="tar"
-REALNAME="with-editor"
+REALNAME="orgit"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Use the Emacsclient as \$EDITOR"
+DESCRIPTION="Support for Org links to Magit buffers"
 
-HOMEPAGE="https://github.com/magit/with-editor"
+HOMEPAGE="https://github.com/magit/orgit"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/compat
+	app-emacs/magit
+	app-emacs/org-mode"
+RDEPEND="app-emacs/compat
+	app-emacs/magit
+	app-emacs/org-mode"
