@@ -73,7 +73,7 @@ app-emacs/geiser-mit 0.15: MIT/GNU Scheme's implementation of the geiser protoco
 app-emacs/geiser-racket 0.16: Support for Racket in Geiser
 app-emacs/geiser-stklos 1.4: STklos Scheme implementation of the geiser protocols
 app-emacs/git-commit 3.3.0: Edit Git commit messages
-app-emacs/git-modes 1.4.0: Major modes for editing Git configuration files
+app-emacs/git-modes 1.4.1: Major modes for editing Git configuration files
 app-emacs/gnu-apl-mode 1.5.1: Emacs mode for GNU APL
 app-emacs/gnu-indent 1.0: Indent your code with GNU Indent
 app-emacs/gnuplot 0.8.1: Major-mode and interactive frontend for gnuplot
@@ -132,7 +132,7 @@ app-emacs/org-mime 0.3.2: org html export for text/html MIME emails
 app-emacs/org-present 0.1: Minimalist presentation minor-mode for Emacs org-mode.
 app-emacs/org-superstar-mode 1.5.1: Prettify headings and plain lists in Org mode
 app-emacs/org-tree-slide 2.8.19: A presentation tool for org-mode
-app-emacs/orgit 1.8.0: support for Org links to Magit buffers
+app-emacs/orgit 1.9.0: Support for Org links to Magit buffers
 app-emacs/pacmacs 0.1.1: Pacman for Emacs
 app-emacs/paredit 26: minor mode for editing parentheses
 app-emacs/parseclj 1.1.0: Clojure/EDN parser
@@ -195,7 +195,7 @@ app-emacs/web-mode 17.3.9: major mode for editing web templates
 app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wgrep 3.0.0: Writable grep buffer and apply the changes to files
 app-emacs/why-this 2.0.4: Why is this line here? Ask version control
-app-emacs/with-editor 3.2.0: Use the Emacsclient as $EDITOR
+app-emacs/with-editor 3.3.0: Use the Emacsclient as $EDITOR
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/workroom 2.3: Named rooms for work without irrelevant distracting buffers
 app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
