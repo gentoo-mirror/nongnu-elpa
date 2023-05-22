@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="interactive macro expander"
+DESCRIPTION="Interactive macro expander"
 
 HOMEPAGE="https://github.com/emacsorphanage/macrostep"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
