@@ -38,7 +38,7 @@ app-emacs/dracula-theme 1.7.0: Dracula Theme
 app-emacs/drupal-mode 0.7.4: Advanced minor mode for Drupal development
 app-emacs/eat 0.8: Emulate A Terminal, in a region, in a buffer and in Eshell
 app-emacs/edit-indirect 0.1.10: Edit regions in separate buffers
-app-emacs/editorconfig 0.10.0: EditorConfig Emacs Plugin
+app-emacs/editorconfig 0.10.1: EditorConfig Emacs Plugin
 app-emacs/elixir-mode 2.4.0: Major mode for editing Elixir files
 app-emacs/elpher 3.5.0: A friendly gopher and gemini client
 app-emacs/engine-mode 2.2.3: Define and query search engines from within Emacs
@@ -109,7 +109,7 @@ app-emacs/keycast 1.3.0: Show current command and its binding
 app-emacs/kotlin-mode 2.0.0: Major mode for kotlin
 app-emacs/lorem-ipsum 0.4: Insert dummy pseudo Latin text
 app-emacs/lua-mode 20221027: a major-mode for editing Lua scripts
-app-emacs/macrostep 0.9.1: interactive macro expander
+app-emacs/macrostep 0.9.2: Interactive macro expander
 app-emacs/magit 3.3.0: A Git porcelain inside Emacs
 app-emacs/magit-section 3.3.0: Sections for read-only buffers
 app-emacs/markdown-mode 2.5: Major mode for Markdown-formatted text
@@ -188,7 +188,7 @@ app-emacs/tuareg 3.0.1: OCaml mode
 app-emacs/typescript-mode 0.4: Major mode for editing typescript
 app-emacs/ujelly-theme 1.2.9: Ujelly theme for GNU Emacs 24 (deftheme)
 app-emacs/undo-fu 0.5: Undo helper with redo
-app-emacs/undo-fu-session 0.5: Persistent undo, available between sessions
+app-emacs/undo-fu-session 0.6: Persistent undo, available between sessions
 app-emacs/vc-fossil 20230504: VC backend for the fossil sofware configuraiton management system
 app-emacs/vcomplete 2.0: Visual completions
 app-emacs/visual-fill-column 2.5.1: fill-column for visual-line-mode
