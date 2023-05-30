@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Minor mode for Devil-like command entering"
+DESCRIPTION="Minor mode for translating key sequences"
 
 HOMEPAGE="https://github.com/susam/devil"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"

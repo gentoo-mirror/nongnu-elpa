@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Minor mode for Devil-like command entering</longdescription>
+	<longdescription>Minor mode for translating key sequences</longdescription>
 </pkgmetadata>
