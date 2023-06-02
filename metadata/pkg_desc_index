@@ -172,7 +172,7 @@ app-emacs/sqlite3 0.17: Direct access to the core SQLite3 API
 app-emacs/stylus-mode 1.0.1: Major mode for editing .styl files
 app-emacs/subatomic-theme 1.8.2: Low contrast bluish color theme
 app-emacs/subed 1.2.2: A major mode for editing subtitles
-app-emacs/sweeprolog 0.18.2: Embedded SWI-Prolog
+app-emacs/sweeprolog 0.18.3: Embedded SWI-Prolog
 app-emacs/swift-mode 8.6.0: Major-mode for Apple's Swift programming language
 app-emacs/swsw 2.3: Simple window switching
 app-emacs/symbol-overlay 4.1: Highlight symbols with keymap-enabled overlays
