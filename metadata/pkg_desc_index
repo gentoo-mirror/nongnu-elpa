@@ -148,7 +148,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.7.0: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20230508.134227: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20230628.162612: Racket editing, REPL, and more
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
 app-emacs/recomplete 0.2: Immediately (re)complete actions
@@ -175,7 +175,6 @@ app-emacs/subatomic-theme 1.8.2: Low contrast bluish color theme
 app-emacs/subed 1.2.3: A major mode for editing subtitles
 app-emacs/sweeprolog 0.21.0: Embedded SWI-Prolog
 app-emacs/swift-mode 8.6.0: Major-mode for Apple's Swift programming language
-app-emacs/swsw 2.3: Simple window switching
 app-emacs/symbol-overlay 4.1: Highlight symbols with keymap-enabled overlays
 app-emacs/systemd 1.6.1: Major mode for editing systemd units
 app-emacs/tablist 1.0: Extended tabulated-list-mode
