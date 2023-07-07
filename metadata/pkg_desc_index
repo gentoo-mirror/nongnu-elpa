@@ -72,7 +72,7 @@ app-emacs/geiser-guile 0.28.1: Guile and Geiser talk to each other
 app-emacs/geiser-kawa 0.0.1: Kawa scheme support for Geiser
 app-emacs/geiser-mit 0.15: MIT/GNU Scheme's implementation of the geiser protocols
 app-emacs/geiser-racket 0.16: Support for Racket in Geiser
-app-emacs/geiser-stklos 1.7: STklos Scheme implementation of the geiser protocols
+app-emacs/geiser-stklos 1.8: STklos Scheme implementation of the geiser protocols
 app-emacs/git-commit 3.3.0: Edit Git commit messages
 app-emacs/git-modes 1.4.1: Major modes for editing Git configuration files
 app-emacs/gnu-apl-mode 1.5.1: Emacs mode for GNU APL
