@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/seq
-DESCRIPTION=Major-mode for Apple's Swift programming language
+DEPEND=app-emacs/geiser
+DESCRIPTION=Chez and Geiser talk to each other
 EAPI=8
-HOMEPAGE=https://github.com/swift-emacs/swift-mode
+HOMEPAGE=https://gitlab.com/emacs-geiser/chez
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/seq >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/geiser >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://elpa.nongnu.org/nongnu/swift-mode-8.6.0.tar
+SRC_URI=https://elpa.nongnu.org/nongnu/geiser-chez-0.18.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	dde4f515dde15603a26a3755438e9c78	elisp	d5d9361b9698f474179a2ac3f8bf46e8	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=99a95041815386bd7e5ce81dd3d2ef3a
+_md5_=c1fd7e24e30100b1d94fd55f2ec6aabc
