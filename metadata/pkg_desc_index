@@ -1,7 +1,7 @@
 app-emacs/afternoon-theme 0.1: Dark color theme with a deep blue background
 app-emacs/alect-themes 0.10: Configurable light, dark and black themes for Emacs 24 or later
 app-emacs/ample-theme 0.3.0: Calm Dark Theme for Emacs
-app-emacs/annotate 2.0.0: annotate files without changing them
+app-emacs/annotate 2.0.1: annotate files without changing them
 app-emacs/anti-zenburn-theme 2.5.1: Low-contrast Zenburn-inverted theme
 app-emacs/anzu 0.64: Show number of matches in mode-line while searching
 app-emacs/apache-mode 2.2.0: Major mode for editing Apache httpd configuration files
@@ -89,7 +89,7 @@ app-emacs/haml-mode 3.2.1: Major mode for editing Haml files
 app-emacs/haskell-mode 17.2: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
 app-emacs/helm 3.9.0: Helm is an Emacs incremental and narrowing framework
-app-emacs/helm-core 3.9.0: Development files for Helm
+app-emacs/helm-core 3.9.1: Development files for Helm
 app-emacs/highlight-parentheses 2.1.1: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
 app-emacs/hl-column 1.0: Highlight the current column
