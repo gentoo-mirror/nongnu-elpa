@@ -88,7 +88,7 @@ app-emacs/guru-mode 1.0: Become an Emacs guru
 app-emacs/haml-mode 3.2.1: Major mode for editing Haml files
 app-emacs/haskell-mode 17.2: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
-app-emacs/helm 3.9.0: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 3.9.1: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-core 3.9.1: Development files for Helm
 app-emacs/highlight-parentheses 2.1.1: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
