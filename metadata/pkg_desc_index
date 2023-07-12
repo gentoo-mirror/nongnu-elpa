@@ -115,7 +115,7 @@ app-emacs/magit-section 3.3.0: Sections for read-only buffers
 app-emacs/markdown-mode 2.5: Major mode for Markdown-formatted text
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
-app-emacs/meow 1.4.2: Yet Another modal editing
+app-emacs/meow 1.4.3: Yet Another modal editing
 app-emacs/minibar 0.3: Modular status bar in minibuffer
 app-emacs/moe-theme 1.0.2: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/monokai-theme 3.5.3: A fruity color theme for Emacs.
@@ -125,7 +125,7 @@ app-emacs/nasm-mode 1.1.1: NASM x86 assembly major mode
 app-emacs/nginx-mode 1.1.9: major mode for editing nginx config files
 app-emacs/nix-mode 1.5.0: Major mode for editing .nix files
 app-emacs/oblivion-theme 0.1: A port of GEdit oblivion theme
-app-emacs/opam-switch-mode 1.1: Select OCaml opam switches via a menu
+app-emacs/opam-switch-mode 1.4: Select OCaml opam switches via a menu
 app-emacs/org-auto-tangle 0.6.0: Automatically and Asynchronously tangles org files on save
 app-emacs/org-contrib 0.4.1: Unmaintained add-ons for Org-mode
 app-emacs/org-drill 2.7.0: Self-testing using spaced repetition
