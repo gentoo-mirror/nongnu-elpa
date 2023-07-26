@@ -201,7 +201,7 @@ app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interacti
 app-emacs/workroom 2.3: Named rooms for work without irrelevant distracting buffers
 app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
 app-emacs/ws-butler 0.6: Unobtrusively remove trailing whitespace.
-app-emacs/xah-fly-keys 24.3.20230724131527: ergonomic modal keybinding minor mode.
+app-emacs/xah-fly-keys 24.3.20230725110700: ergonomic modal keybinding minor mode.
 app-emacs/xkcd 1.1: View xkcd from Emacs
 app-emacs/xml-rpc 1.6.16: An elisp implementation of clientside XML-RPC
 app-emacs/yaml-mode 0.0.15: Major mode for editing YAML files
