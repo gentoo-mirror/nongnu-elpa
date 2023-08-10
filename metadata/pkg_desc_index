@@ -22,7 +22,7 @@ app-emacs/cdlatex 4.15: Fast input methods for LaTeX environments and math
 app-emacs/cider 1.7.0: Clojure Interactive Development Environment that Rocks
 app-emacs/clojure-mode 5.16.1: Major mode for Clojure code
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
-app-emacs/corfu-terminal 0.6: Corfu popup on terminal
+app-emacs/corfu-terminal 0.7: Corfu popup on terminal
 app-emacs/crux 0.4.0: A Collection of Ridiculously Useful eXtensions
 app-emacs/cyberpunk-theme 1.22: Cyberpunk Color Theme
 app-emacs/cycle-at-point 0.1: Cycle (rotate) the thing under the cursor
@@ -88,7 +88,7 @@ app-emacs/guru-mode 1.0: Become an Emacs guru
 app-emacs/haml-mode 3.2.1: Major mode for editing Haml files
 app-emacs/haskell-mode 17.4: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
-app-emacs/helm 3.9.1: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm 3.9.3: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-core 3.9.3: Development files for Helm
 app-emacs/highlight-parentheses 2.1.1: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
