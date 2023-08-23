@@ -18,7 +18,7 @@ app-emacs/boxquote 2.3: Quote text with a semi-box.
 app-emacs/buttercup 1.31: Behavior-Driven Emacs Lisp Testing
 app-emacs/camera 0.2: Take picture with your camera
 app-emacs/caml 4.9: Caml mode for GNU Emacs
-app-emacs/cdlatex 4.17: Fast input methods for LaTeX environments and math
+app-emacs/cdlatex 4.18: Fast input methods for LaTeX environments and math
 app-emacs/cider 1.7.0: Clojure Interactive Development Environment that Rocks
 app-emacs/clojure-mode 5.16.1: Major mode for Clojure code
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
@@ -115,7 +115,7 @@ app-emacs/magit-section 3.3.0: Sections for read-only buffers
 app-emacs/markdown-mode 2.5: Major mode for Markdown-formatted text
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
-app-emacs/meow 1.4.3: Yet Another modal editing
+app-emacs/meow 1.4.4: Yet Another modal editing
 app-emacs/minibar 0.3: Modular status bar in minibuffer
 app-emacs/moe-theme 1.0.2: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/monokai-theme 3.5.3: A fruity color theme for Emacs.
