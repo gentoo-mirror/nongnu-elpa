@@ -134,7 +134,7 @@ app-emacs/org-journal 2.2.0: a simple org-mode based journaling mode
 app-emacs/org-mime 0.3.2: org html export for text/html MIME emails
 app-emacs/org-present 0.1: Minimalist presentation minor-mode for Emacs org-mode.
 app-emacs/org-superstar-mode 1.5.1: Prettify headings and plain lists in Org mode
-app-emacs/org-tree-slide 2.8.19: A presentation tool for org-mode
+app-emacs/org-tree-slide 2.8.22: A presentation tool for org-mode
 app-emacs/orgit 1.9.0: Support for Org links to Magit buffers
 app-emacs/pacmacs 0.1.1: Pacman for Emacs
 app-emacs/paredit 26: minor mode for editing parentheses
@@ -198,12 +198,12 @@ app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wfnames 1.1: Edit filenames
 app-emacs/wgrep 3.0.0: Writable grep buffer and apply the changes to files
 app-emacs/why-this 2.0.4: Why is this line here? Ask version control
-app-emacs/with-editor 3.3.0: Use the Emacsclient as $EDITOR
+app-emacs/with-editor 3.3.1: Use the Emacsclient as $EDITOR
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/workroom 2.3: Named rooms for work without irrelevant distracting buffers
 app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
 app-emacs/ws-butler 0.6: Unobtrusively remove trailing whitespace.
-app-emacs/xah-fly-keys 24.7.20230823140837: ergonomic modal keybinding minor mode.
+app-emacs/xah-fly-keys 24.8.20230825161727: ergonomic modal keybinding minor mode.
 app-emacs/xkcd 1.1: View xkcd from Emacs
 app-emacs/xml-rpc 1.6.16: An elisp implementation of clientside XML-RPC
 app-emacs/yaml-mode 0.0.15: Major mode for editing YAML files
