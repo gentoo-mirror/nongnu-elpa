@@ -1,0 +1,13 @@
+BDEPEND=>=app-editors/emacs-25.3:*
+DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
+DEPEND=app-emacs/let-alist
+DESCRIPTION=A linting library for elisp package authors
+EAPI=8
+HOMEPAGE=https://github.com/purcell/package-lint
+INHERIT=g-sorcery gs-elpa
+KEYWORDS=~amd64 ~x86
+RDEPEND=app-emacs/let-alist >=app-editors/emacs-25.3:*
+SLOT=0
+SRC_URI=https://elpa.nongnu.org/nongnu/package-lint-0.19.tar
+_eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	b3b15bdbe800c721e93b69b70cce2b67	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
+_md5_=28d2c7103202a89095bfa6585b849576
