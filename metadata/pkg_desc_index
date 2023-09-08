@@ -83,6 +83,7 @@ app-emacs/gnu-apl-mode 1.5.1: Emacs mode for GNU APL
 app-emacs/gnu-indent 1.0: Indent your code with GNU Indent
 app-emacs/gnuplot 0.8.1: Major-mode and interactive frontend for gnuplot
 app-emacs/go-mode 1.6.0: Major mode for the Go programming language
+app-emacs/golden-ratio 1.0.1: Automatic resizing of Emacs windows to the golden ratio
 app-emacs/gotham-theme 1.1.9: A very dark Emacs color theme
 app-emacs/goto-chg 1.7.5: Go to last change
 app-emacs/graphql-mode 1.0.0: Major mode for editing GraphQL schemas
@@ -201,7 +202,7 @@ app-emacs/undo-fu-session 0.6: Persistent undo, available between sessions
 app-emacs/vc-fossil 20230504: VC backend for the fossil sofware configuraiton management system
 app-emacs/vcomplete 2.0: Visual completions
 app-emacs/visual-fill-column 2.5.1: fill-column for visual-line-mode
-app-emacs/web-mode 17.3.13: major mode for editing web templates
+app-emacs/web-mode 17.3.14: major mode for editing web templates
 app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wfnames 1.1: Edit filenames
 app-emacs/wgrep 3.0.0: Writable grep buffer and apply the changes to files
