@@ -93,8 +93,8 @@ app-emacs/guru-mode 1.0: Become an Emacs guru
 app-emacs/haml-mode 3.2.1: Major mode for editing Haml files
 app-emacs/haskell-mode 17.4: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
-app-emacs/helm 3.9.4: Helm is an Emacs incremental and narrowing framework
-app-emacs/helm-core 3.9.4: Development files for Helm
+app-emacs/helm 3.9.5: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm-core 3.9.5: Development files for Helm
 app-emacs/highlight-parentheses 2.1.1: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
 app-emacs/hl-column 1.0: Highlight the current column
@@ -183,7 +183,7 @@ app-emacs/sqlite3 0.17: Direct access to the core SQLite3 API
 app-emacs/stylus-mode 1.0.1: Major mode for editing .styl files
 app-emacs/subatomic-theme 1.8.2: Low contrast bluish color theme
 app-emacs/subed 1.2.3: A major mode for editing subtitles
-app-emacs/sweeprolog 0.23.1: Embedded SWI-Prolog
+app-emacs/sweeprolog 0.24.1: Embedded SWI-Prolog
 app-emacs/swift-mode 9.0.0: Major-mode for Apple's Swift programming language
 app-emacs/symbol-overlay 4.1: Highlight symbols with keymap-enabled overlays
 app-emacs/systemd 1.6.1: Major mode for editing systemd units
@@ -212,7 +212,7 @@ app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interacti
 app-emacs/workroom 2.3: Named rooms for work without irrelevant distracting buffers
 app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
 app-emacs/ws-butler 0.6: Unobtrusively remove trailing whitespace.
-app-emacs/xah-fly-keys 24.8.20230825161727: ergonomic modal keybinding minor mode.
+app-emacs/xah-fly-keys 24.9.20230909155929: ergonomic modal keybinding minor mode.
 app-emacs/xkcd 1.1: View xkcd from Emacs
 app-emacs/xml-rpc 1.6.16: An elisp implementation of clientside XML-RPC
 app-emacs/yaml-mode 0.0.15: Major mode for editing YAML files
