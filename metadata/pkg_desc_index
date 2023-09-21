@@ -19,7 +19,7 @@ app-emacs/boxquote 2.3: Quote text with a semi-box.
 app-emacs/buttercup 1.31: Behavior-Driven Emacs Lisp Testing
 app-emacs/camera 0.3: Take picture with your camera
 app-emacs/caml 4.9: Caml mode for GNU Emacs
-app-emacs/cdlatex 4.18.2: Fast input methods for LaTeX environments and math
+app-emacs/cdlatex 4.18.3: Fast input methods for LaTeX environments and math
 app-emacs/cider 1.7.0: Clojure Interactive Development Environment that Rocks
 app-emacs/clojure-mode 5.17.0: Major mode for Clojure code
 app-emacs/clojure-ts-mode 0.1.5: Major mode for Clojure code
@@ -106,7 +106,7 @@ app-emacs/iedit 0.9.9.9.9: Edit multiple regions in the same way simultaneously.
 app-emacs/inf-clojure 3.2.1: Run an external Clojure process in an Emacs buffer
 app-emacs/inf-ruby 2.7.0: Run a Ruby process in a buffer
 app-emacs/inkpot-theme 0.1: A port of vim's inkpot theme
-app-emacs/iwindow 1.0: Interactively manipulate windows
+app-emacs/iwindow 1.1: Interactively manipulate windows
 app-emacs/j-mode 1.1.1: Major mode for editing J programs
 app-emacs/jade-mode 1.0.1: Major mode for editing .jade files
 app-emacs/jinja2-mode 0.3: A major mode for jinja2
