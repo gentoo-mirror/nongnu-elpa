@@ -22,7 +22,7 @@ app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cdlatex 4.18.3: Fast input methods for LaTeX environments and math
 app-emacs/cider 1.7.0: Clojure Interactive Development Environment that Rocks
 app-emacs/clojure-mode 5.17.0: Major mode for Clojure code
-app-emacs/clojure-ts-mode 0.1.5: Major mode for Clojure code
+app-emacs/clojure-ts-mode 0.2.0: Major mode for Clojure code
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
 app-emacs/corfu-terminal 0.7: Corfu popup on terminal
 app-emacs/crux 0.4.0: A Collection of Ridiculously Useful eXtensions
