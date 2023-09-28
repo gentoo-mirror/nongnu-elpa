@@ -119,7 +119,7 @@ app-emacs/macrostep 0.9.2: Interactive macro expander
 app-emacs/magit 3.3.0: A Git porcelain inside Emacs
 app-emacs/magit-section 3.3.0: Sections for read-only buffers
 app-emacs/markdown-mode 2.6: Major mode for Markdown-formatted text
-app-emacs/mastodon 1.0.1: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.0.2: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
 app-emacs/meow 1.4.4: Yet Another modal editing
@@ -209,7 +209,7 @@ app-emacs/wgrep 3.0.0: Writable grep buffer and apply the changes to files
 app-emacs/why-this 2.0.4: Why is this line here? Ask version control
 app-emacs/with-editor 3.3.2: Use the Emacsclient as $EDITOR
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
-app-emacs/workroom 2.3: Named rooms for work without irrelevant distracting buffers
+app-emacs/workroom 2.3.1: Named rooms for work without irrelevant distracting buffers
 app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
 app-emacs/ws-butler 0.6: Unobtrusively remove trailing whitespace.
 app-emacs/xah-fly-keys 24.11.20230921082343: ergonomic modal keybinding minor mode.
