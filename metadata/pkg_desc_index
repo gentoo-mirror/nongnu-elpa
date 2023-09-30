@@ -147,7 +147,7 @@ app-emacs/pacmacs 0.1.1: Pacman for Emacs
 app-emacs/page-break-lines 0.15: Display ^L page breaks as tidy horizontal lines
 app-emacs/paredit 26: minor mode for editing parentheses
 app-emacs/parseclj 1.1.0: Clojure/EDN parser
-app-emacs/parseedn 1.1.0: Clojure/EDN parser
+app-emacs/parseedn 1.2.0: Clojure/EDN parser
 app-emacs/pcmpl-args 0.1.3: Enhanced shell command completion
 app-emacs/pcre2el 1.12: regexp syntax converter
 app-emacs/pdf-tools 1.1.0: Support library for PDF documents
