@@ -15,6 +15,7 @@ app-emacs/better-jumper 1.0.1: configurable jump list
 app-emacs/bind-map 1.1.2: Bind personal keymaps in multiple locations
 app-emacs/bison-mode 0.4: Major mode for editing bison, yacc and lex files.
 app-emacs/blow 1.0: Blow away mode lighters
+app-emacs/blueprint-ts-mode 0.0.1: Major mode for editing GNOME Blueprint files
 app-emacs/boxquote 2.3: Quote text with a semi-box.
 app-emacs/buttercup 1.31: Behavior-Driven Emacs Lisp Testing
 app-emacs/camera 0.3: Take picture with your camera
