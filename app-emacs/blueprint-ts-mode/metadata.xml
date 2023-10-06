@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Major mode for editing GNOME Blueprint files</longdescription>
+	<longdescription>tree-sitter support for Blueprint files</longdescription>
 </pkgmetadata>

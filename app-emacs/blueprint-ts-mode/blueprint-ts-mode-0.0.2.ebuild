@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Major mode for editing GNOME Blueprint files"
+DESCRIPTION="tree-sitter support for Blueprint files"
 
 HOMEPAGE="https://github.com/huanie/blueprint-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
