@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Define and query search engines from within Emacs"
+DESCRIPTION="Define and query search engines"
 
 HOMEPAGE="https://github.com/hrs/engine-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
