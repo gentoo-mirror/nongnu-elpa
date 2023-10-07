@@ -44,7 +44,7 @@ app-emacs/edit-indirect 0.1.10: Edit regions in separate buffers
 app-emacs/editorconfig 0.10.1: EditorConfig Emacs Plugin
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elpher 3.5.0: A friendly gopher and gemini client
-app-emacs/engine-mode 2.2.3: Define and query search engines from within Emacs
+app-emacs/engine-mode 2.2.4: Define and query search engines
 app-emacs/evil 1.15.0: extensible vi layer
 app-emacs/evil-anzu 0.2: anzu for evil-mode
 app-emacs/evil-args 1.1: Motions and text objects for delimited arguments in Evil.
