@@ -39,7 +39,7 @@ app-emacs/doc-show-inline 0.1: Show doc-strings found in external files
 app-emacs/dockerfile-mode 1.7: Major mode for editing Docker's Dockerfiles
 app-emacs/dracula-theme 1.8.1: Dracula Theme
 app-emacs/drupal-mode 0.7.4: Advanced minor mode for Drupal development
-app-emacs/eat 0.9: Emulate A Terminal, in a region, in a buffer and in Eshell
+app-emacs/eat 0.9.1: Emulate A Terminal, in a region, in a buffer and in Eshell
 app-emacs/edit-indirect 0.1.10: Edit regions in separate buffers
 app-emacs/editorconfig 0.10.1: EditorConfig Emacs Plugin
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
@@ -184,7 +184,7 @@ app-emacs/sqlite3 0.17: Direct access to the core SQLite3 API
 app-emacs/stylus-mode 1.0.1: Major mode for editing .styl files
 app-emacs/subatomic-theme 1.8.2: Low contrast bluish color theme
 app-emacs/subed 1.2.4: A major mode for editing subtitles
-app-emacs/sweeprolog 0.25.3: Embedded SWI-Prolog
+app-emacs/sweeprolog 0.25.4: Embedded SWI-Prolog
 app-emacs/swift-mode 9.1.0: Major-mode for Apple's Swift programming language
 app-emacs/symbol-overlay 4.1: Highlight symbols with keymap-enabled overlays
 app-emacs/systemd 1.6.1: Major mode for editing systemd units
