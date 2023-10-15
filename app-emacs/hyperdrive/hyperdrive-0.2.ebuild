@@ -21,8 +21,10 @@ KEYWORDS="~amd64 ~x86"
 DEPEND="app-emacs/map
 	app-emacs/compat
 	app-emacs/plz
-	app-emacs/persist"
+	app-emacs/persist
+	app-emacs/transient"
 RDEPEND="app-emacs/map
 	app-emacs/compat
 	app-emacs/plz
-	app-emacs/persist"
+	app-emacs/persist
+	app-emacs/transient"
