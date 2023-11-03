@@ -145,7 +145,7 @@ app-emacs/org-present 0.1: Minimalist presentation minor-mode for Emacs org-mode
 app-emacs/org-superstar-mode 1.5.1: Prettify headings and plain lists in Org mode
 app-emacs/org-tree-slide 2.8.22: A presentation tool for org-mode
 app-emacs/orgit 1.9.0: Support for Org links to Magit buffers
-app-emacs/package-lint 0.19: A linting library for elisp package authors
+app-emacs/package-lint 0.20: A linting library for elisp package authors
 app-emacs/pacmacs 0.1.1: Pacman for Emacs
 app-emacs/page-break-lines 0.15: Display ^L page breaks as tidy horizontal lines
 app-emacs/paredit 26: minor mode for editing parentheses
