@@ -18,5 +18,7 @@ SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/let-alist"
-RDEPEND="app-emacs/let-alist"
+DEPEND="app-emacs/let-alist
+	app-emacs/compat"
+RDEPEND="app-emacs/let-alist
+	app-emacs/compat"
