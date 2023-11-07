@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Clojure Interactive Development Environment that Rocks"
 
-HOMEPAGE="http://www.github.com/clojure-emacs/cider"
+HOMEPAGE="https://www.github.com/clojure-emacs/cider"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
