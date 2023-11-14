@@ -145,7 +145,7 @@ app-emacs/org-present 0.1: Minimalist presentation minor-mode for Emacs org-mode
 app-emacs/org-superstar-mode 1.5.1: Prettify headings and plain lists in Org mode
 app-emacs/org-tree-slide 2.8.22: A presentation tool for org-mode
 app-emacs/orgit 1.9.0: Support for Org links to Magit buffers
-app-emacs/package-lint 0.20: A linting library for elisp package authors
+app-emacs/package-lint 0.21: A linting library for elisp package authors
 app-emacs/pacmacs 0.1.1: Pacman for Emacs
 app-emacs/page-break-lines 0.15: Display ^L page breaks as tidy horizontal lines
 app-emacs/paredit 26: minor mode for editing parentheses
@@ -160,7 +160,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.8.0: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20231111.185421: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20231113.94505: Racket editing, REPL, and more
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
 app-emacs/recomplete 0.2: Immediately (re)complete actions
