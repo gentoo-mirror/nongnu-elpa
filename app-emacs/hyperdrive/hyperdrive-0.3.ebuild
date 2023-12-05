@@ -22,9 +22,11 @@ DEPEND="app-emacs/map
 	app-emacs/compat
 	app-emacs/plz
 	app-emacs/persist
+	app-emacs/taxy-magit-section
 	app-emacs/transient"
 RDEPEND="app-emacs/map
 	app-emacs/compat
 	app-emacs/plz
 	app-emacs/persist
+	app-emacs/taxy-magit-section
 	app-emacs/transient"
