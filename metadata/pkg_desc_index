@@ -17,7 +17,7 @@ app-emacs/bison-mode 0.4: Major mode for editing bison, yacc and lex files.
 app-emacs/blow 1.0: Blow away mode lighters
 app-emacs/blueprint-ts-mode 0.0.3: tree-sitter support for Blueprint files
 app-emacs/boxquote 2.3: Quote text with a semi-box.
-app-emacs/buttercup 1.32: Behavior-Driven Emacs Lisp Testing
+app-emacs/buttercup 1.33: Behavior-Driven Emacs Lisp Testing
 app-emacs/camera 0.3: Take picture with your camera
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cdlatex 4.18.4: Fast input methods for LaTeX environments and math
@@ -161,7 +161,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.8.0: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20231203.100509: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20231206.130741: Racket editing, REPL, and more
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
 app-emacs/recomplete 0.2: Immediately (re)complete actions
