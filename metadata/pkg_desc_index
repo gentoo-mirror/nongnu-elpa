@@ -107,7 +107,7 @@ app-emacs/idle-highlight-mode 1.1.4: Highlight the word the point is on
 app-emacs/idris-mode 1.1.0: Major mode for editing Idris code
 app-emacs/iedit 0.9.9.9.9: Edit multiple regions in the same way simultaneously.
 app-emacs/inf-clojure 3.2.1: Run an external Clojure process in an Emacs buffer
-app-emacs/inf-ruby 2.8.0: Run a Ruby process in a buffer
+app-emacs/inf-ruby 2.8.1: Run a Ruby process in a buffer
 app-emacs/inkpot-theme 0.1: A port of vim's inkpot theme
 app-emacs/iwindow 1.1: Interactively manipulate windows
 app-emacs/j-mode 1.1.1: Major mode for editing J programs
@@ -161,7 +161,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.8.0: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20231209.134147: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20231211.122419: Racket editing, REPL, and more
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
 app-emacs/recomplete 0.2: Immediately (re)complete actions
