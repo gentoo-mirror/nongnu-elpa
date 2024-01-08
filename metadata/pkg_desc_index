@@ -40,7 +40,7 @@ app-emacs/dockerfile-mode 1.7: Major mode for editing Docker's Dockerfiles
 app-emacs/dracula-theme 1.8.2: Dracula Theme
 app-emacs/drupal-mode 0.7.4: Advanced minor mode for Drupal development
 app-emacs/eat 0.9.4: Emulate A Terminal, in a region, in a buffer and in Eshell
-app-emacs/edit-indirect 0.1.10: Edit regions in separate buffers
+app-emacs/edit-indirect 0.1.11: Edit regions in separate buffers
 app-emacs/editorconfig 0.10.1: EditorConfig Emacs Plugin
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elpher 3.5.0: A friendly gopher and gemini client
