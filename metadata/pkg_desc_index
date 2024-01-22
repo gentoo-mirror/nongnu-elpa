@@ -178,7 +178,7 @@ app-emacs/scroll-on-drag 0.1: Interactive scrolling
 app-emacs/scroll-on-jump 0.2: Scroll when jumping to a new point
 app-emacs/sesman 0.3.2: Generic Session Manager
 app-emacs/shellcop 0.1.0: Analyze info&error in shell-mode
-app-emacs/slime 2.28: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 2.29: Superior Lisp Interaction Mode for Emacs
 app-emacs/sly 1.0.43: Sylvester the Cat's Common Lisp IDE
 app-emacs/smartparens 1.11.0: Automatic insertion, wrapping and paredit-like navigation with user defined pairs.
 app-emacs/solarized-theme 2.0.1: The Solarized color theme
