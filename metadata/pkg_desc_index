@@ -10,6 +10,7 @@ app-emacs/apropospriate-theme 0.2.0: A light & dark theme set for Emacs.
 app-emacs/arduino-mode 1.3.0: Major mode for editing Arduino code
 app-emacs/auto-dim-other-buffers 2.1.1: Makes windows without focus less prominent
 app-emacs/autothemer 0.2.18: Conveniently define themes
+app-emacs/base32 1.0: Base32 support
 app-emacs/bash-completion 3.1.1: Bash completion for the shell buffer
 app-emacs/better-jumper 1.0.1: configurable jump list
 app-emacs/bind-map 1.1.2: Bind personal keymaps in multiple locations
@@ -126,7 +127,7 @@ app-emacs/markdown-mode 2.6: Major mode for Markdown-formatted text
 app-emacs/mastodon 1.0.12: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
-app-emacs/meow 1.4.4: Yet Another modal editing
+app-emacs/meow 1.4.5: Yet Another modal editing
 app-emacs/minibar 0.3: Modular status bar in minibuffer
 app-emacs/moe-theme 1.0.2: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/monokai-theme 3.5.3: A fruity color theme for Emacs.
@@ -198,6 +199,7 @@ app-emacs/telephone-line 0.5: Rewrite of Powerline
 app-emacs/testcover-mark-line 0.3: Mark whole line with Testcover
 app-emacs/textile-mode 1.0.0: Textile markup editing major mode
 app-emacs/toc-org 1.1: add table of contents to org-mode files (formerly, org-toc)
+app-emacs/totp-auth 1.0: RFC6238 TOTP
 app-emacs/treeview 1.2.0: A generic tree navigation library
 app-emacs/tuareg 3.0.1: OCaml mode
 app-emacs/typescript-mode 0.4: Major mode for editing typescript
