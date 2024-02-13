@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Convert buffer text and decorations to HTML."
 
-HOMEPAGE="https://github.com/hniksic/emacs-htmlize"
+HOMEPAGE="https://elpa.nongnu.org/nongnu/htmlize.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
