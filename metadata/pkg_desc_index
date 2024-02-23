@@ -64,6 +64,7 @@ app-emacs/evil-visualstar 0.2.0: Starts a * or # search from the visual selectio
 app-emacs/exec-path-from-shell 2.1: Get environment variables such as $PATH from the shell
 app-emacs/flx 0.6.2: fuzzy matching with good sorting
 app-emacs/flx-ido 0.6.2: flx integration for ido
+app-emacs/flycheck 34.1: On-the-fly syntax checking
 app-emacs/flymake-guile 0.5: Guile flymake backend
 app-emacs/flymake-kondor 0.1.3: Linter with clj-kondo
 app-emacs/flymake-popon 0.5.1: Flymake diagnostics on cursor hover
@@ -208,7 +209,7 @@ app-emacs/undo-fu 0.5: Undo helper with redo
 app-emacs/undo-fu-session 0.6: Persistent undo, available between sessions
 app-emacs/vc-fossil 20230504: VC backend for the fossil sofware configuraiton management system
 app-emacs/vcomplete 2.0: Visual completions
-app-emacs/visual-fill-column 2.5.2: fill-column for visual-line-mode
+app-emacs/visual-fill-column 2.6.0: fill-column for visual-line-mode
 app-emacs/web-mode 17.3.18: major mode for editing web templates
 app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wfnames 1.1: Edit filenames
