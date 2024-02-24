@@ -209,7 +209,7 @@ app-emacs/undo-fu 0.5: Undo helper with redo
 app-emacs/undo-fu-session 0.6: Persistent undo, available between sessions
 app-emacs/vc-fossil 20230504: VC backend for the fossil sofware configuraiton management system
 app-emacs/vcomplete 2.0: Visual completions
-app-emacs/visual-fill-column 2.6.0: fill-column for visual-line-mode
+app-emacs/visual-fill-column 2.6.2: fill-column for visual-line-mode
 app-emacs/web-mode 17.3.18: major mode for editing web templates
 app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wfnames 1.1: Edit filenames
