@@ -2,7 +2,7 @@ app-emacs/adoc-mode 0.7.0: a major-mode for editing AsciiDoc files
 app-emacs/afternoon-theme 0.1: Dark color theme with a deep blue background
 app-emacs/alect-themes 0.10: Configurable light, dark and black themes for Emacs 24 or later
 app-emacs/ample-theme 0.3.0: Calm Dark Theme for Emacs
-app-emacs/annotate 2.2.0: annotate files without changing them
+app-emacs/annotate 2.2.1: annotate files without changing them
 app-emacs/anti-zenburn-theme 2.5.1: Low-contrast Zenburn-inverted theme
 app-emacs/anzu 0.64: Show number of matches in mode-line while searching
 app-emacs/apache-mode 2.2.0: Major mode for editing Apache httpd configuration files
