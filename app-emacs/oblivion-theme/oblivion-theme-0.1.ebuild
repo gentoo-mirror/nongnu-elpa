@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="A port of GEdit oblivion theme"
 
-HOMEPAGE="https://codeberg.com/ideasman42/emacs-oblivion-theme"
+HOMEPAGE="https://gitlab.com/ideasman42/emacs-oblivion-theme"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

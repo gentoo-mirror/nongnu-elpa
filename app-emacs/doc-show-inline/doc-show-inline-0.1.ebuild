@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Show doc-strings found in external files"
 
-HOMEPAGE="https://codeberg.com/ideasman42/emacs-doc-show-inline"
+HOMEPAGE="https://gitlab.com/ideasman42/emacs-doc-show-inline"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

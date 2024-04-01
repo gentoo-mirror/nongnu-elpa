@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="An Emacs interface for RuboCop"
 
-HOMEPAGE="https://github.com/rubocop/rubocop-emacs"
+HOMEPAGE="https://github.com/bbatsov/rubocop-emacs"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
