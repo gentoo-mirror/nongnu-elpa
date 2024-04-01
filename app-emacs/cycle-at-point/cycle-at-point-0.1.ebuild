@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Cycle (rotate) the thing under the cursor"
 
-HOMEPAGE="https://codeberg.com/ideasman42/emacs-cycle-at-point"
+HOMEPAGE="https://gitlab.com/ideasman42/emacs-cycle-at-point"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

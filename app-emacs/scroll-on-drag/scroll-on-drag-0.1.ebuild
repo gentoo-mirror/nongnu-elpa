@@ -10,9 +10,9 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Interactive scrolling"
+DESCRIPTION="Interactive scrolling."
 
-HOMEPAGE="https://codeberg.com/ideasman42/emacs-scroll-on-drag"
+HOMEPAGE="https://github.com/ideasman42/emacs-scroll-on-drag"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

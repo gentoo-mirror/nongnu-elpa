@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Multiple cursors for emacs."
 
-HOMEPAGE="https://github.com/magnars/multiple-cursors.el"
+HOMEPAGE="https://elpa.nongnu.org/nongnu/multiple-cursors.html"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

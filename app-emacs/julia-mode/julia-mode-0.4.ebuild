@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Julia source code"
 
-HOMEPAGE="https://github.com/JuliaEditorSupport/julia-emacs"
+HOMEPAGE="https://github.com/JuliaLang/julia"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

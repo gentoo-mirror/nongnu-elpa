@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Immediately (re)complete actions"
 
-HOMEPAGE="https://codeberg.com/ideasman42/emacs-recomplete"
+HOMEPAGE="https://gitlab.com/ideasman42/emacs-recomplete"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"

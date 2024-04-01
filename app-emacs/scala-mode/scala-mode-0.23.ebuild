@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Scala"
 
-HOMEPAGE="https://github.com/hvesalai/emacs-scala-mode"
+HOMEPAGE="https://github.com/ensime/emacs-scala-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
