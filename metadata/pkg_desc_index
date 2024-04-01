@@ -18,7 +18,7 @@ app-emacs/bison-mode 0.4: Major mode for editing bison, yacc and lex files.
 app-emacs/blow 1.0: Blow away mode lighters
 app-emacs/blueprint-ts-mode 0.0.3: tree-sitter support for Blueprint files
 app-emacs/boxquote 2.3: Quote text with a semi-box.
-app-emacs/buttercup 1.34: Behavior-Driven Emacs Lisp Testing
+app-emacs/buttercup 1.35: Behavior-Driven Emacs Lisp Testing
 app-emacs/camera 0.3: Take picture with your camera
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cdlatex 4.18.4: Fast input methods for LaTeX environments and math
@@ -102,7 +102,7 @@ app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
 app-emacs/helm 3.9.7: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-core 3.9.7: Development files for Helm
-app-emacs/highlight-parentheses 2.1.1: Highlight surrounding parentheses
+app-emacs/highlight-parentheses 2.2.1: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
 app-emacs/hl-column 1.0: Highlight the current column
 app-emacs/htmlize 1.56: Convert buffer text and decorations to HTML.
@@ -150,7 +150,7 @@ app-emacs/org-superstar-mode 1.5.1: Prettify headings and plain lists in Org mod
 app-emacs/org-tree-slide 2.8.22: A presentation tool for org-mode
 app-emacs/orgit 1.9.0: Support for Org links to Magit buffers
 app-emacs/p4-16-mode 0.3: Support for the P4_16 programming language
-app-emacs/package-lint 0.21: A linting library for elisp package authors
+app-emacs/package-lint 0.23: A linting library for elisp package authors
 app-emacs/pacmacs 0.1.1: Pacman for Emacs
 app-emacs/page-break-lines 0.15: Display ^L page breaks as tidy horizontal lines
 app-emacs/paredit 26: minor mode for editing parentheses
@@ -177,7 +177,7 @@ app-emacs/rust-mode 1.0.5: A major-mode for editing Rust source code
 app-emacs/sass-mode 3.0.16: Major mode for editing Sass files
 app-emacs/scad-mode 93.3: A major mode for editing OpenSCAD code
 app-emacs/scala-mode 0.23: Major mode for editing Scala
-app-emacs/scroll-on-drag 0.1: Interactive scrolling
+app-emacs/scroll-on-drag 0.1: Interactive scrolling.
 app-emacs/scroll-on-jump 0.2: Scroll when jumping to a new point
 app-emacs/sesman 0.3.2: Generic Session Manager
 app-emacs/shellcop 0.1.0: Analyze info&error in shell-mode
