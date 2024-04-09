@@ -102,7 +102,7 @@ app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
 app-emacs/helm 3.9.7: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-core 3.9.7: Development files for Helm
-app-emacs/highlight-parentheses 2.2.1: Highlight surrounding parentheses
+app-emacs/highlight-parentheses 2.2.2: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
 app-emacs/hl-column 1.0: Highlight the current column
 app-emacs/htmlize 1.56: Convert buffer text and decorations to HTML.
