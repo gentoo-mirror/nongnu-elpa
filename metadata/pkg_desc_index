@@ -62,7 +62,7 @@ app-emacs/evil-numbers 0.7: Increment/decrement numbers like in VIM
 app-emacs/evil-surround 1.0.4: emulate surround.vim from Vim
 app-emacs/evil-visual-mark-mode 0.0.5: Display evil marks on buffer
 app-emacs/evil-visualstar 0.2.0: Starts a * or # search from the visual selection
-app-emacs/exec-path-from-shell 2.1: Get environment variables such as $PATH from the shell
+app-emacs/exec-path-from-shell 2.2: Get environment variables such as $PATH from the shell
 app-emacs/flx 0.6.2: fuzzy matching with good sorting
 app-emacs/flx-ido 0.6.2: flx integration for ido
 app-emacs/flycheck 34.1: On-the-fly syntax checking
@@ -100,8 +100,8 @@ app-emacs/guru-mode 1.0: Become an Emacs guru
 app-emacs/haml-mode 3.2.1: Major mode for editing Haml files
 app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
-app-emacs/helm 3.9.7: Helm is an Emacs incremental and narrowing framework
-app-emacs/helm-core 3.9.7: Development files for Helm
+app-emacs/helm 3.9.8: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm-core 3.9.8: Development files for Helm
 app-emacs/highlight-parentheses 2.2.2: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
 app-emacs/hl-column 1.0: Highlight the current column
@@ -136,7 +136,7 @@ app-emacs/monokai-theme 3.5.3: A fruity color theme for Emacs.
 app-emacs/mpv 0.2.0: control mpv for easy note-taking
 app-emacs/multiple-cursors 1.4.0: Multiple cursors for emacs.
 app-emacs/nasm-mode 1.1.1: NASM x86 assembly major mode
-app-emacs/nginx-mode 1.1.9: major mode for editing nginx config files
+app-emacs/nginx-mode 1.1.10: major mode for editing nginx config files
 app-emacs/nix-mode 1.5.0: Major mode for editing .nix files
 app-emacs/oblivion-theme 0.1: A port of GEdit oblivion theme
 app-emacs/opam-switch-mode 1.7: Select OCaml opam switches via a menu
@@ -191,7 +191,7 @@ app-emacs/sqlite3 0.17: Direct access to the core SQLite3 API
 app-emacs/stylus-mode 1.0.1: Major mode for editing .styl files
 app-emacs/subatomic-theme 1.8.2: Low contrast bluish color theme
 app-emacs/subed 1.2.11: A major mode for editing subtitles
-app-emacs/sweeprolog 0.27.4: Embedded SWI-Prolog
+app-emacs/sweeprolog 0.27.5: Embedded SWI-Prolog
 app-emacs/swift-mode 9.1.0: Major-mode for Apple's Swift programming language
 app-emacs/symbol-overlay 4.1: Highlight symbols with keymap-enabled overlays
 app-emacs/systemd 1.6.1: Major mode for editing systemd units
@@ -210,7 +210,7 @@ app-emacs/undo-fu 0.5: Undo helper with redo
 app-emacs/undo-fu-session 0.6: Persistent undo, available between sessions
 app-emacs/vc-fossil 20230504: VC backend for the fossil sofware configuraiton management system
 app-emacs/vcomplete 2.0: Visual completions
-app-emacs/visual-fill-column 2.6.2: fill-column for visual-line-mode
+app-emacs/visual-fill-column 2.6.3: fill-column for visual-line-mode
 app-emacs/web-mode 17.3.19: major mode for editing web templates
 app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wfnames 1.1: Edit filenames
