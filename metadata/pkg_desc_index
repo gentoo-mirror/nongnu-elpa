@@ -30,7 +30,7 @@ app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
 app-emacs/corfu-terminal 0.7: Corfu popup on terminal
 app-emacs/crux 0.5.0: A Collection of Ridiculously Useful eXtensions
 app-emacs/cyberpunk-theme 1.22: Cyberpunk Color Theme
-app-emacs/cycle-at-point 0.1: Cycle (rotate) the thing under the cursor
+app-emacs/cycle-at-point 0.2: Cycle (rotate) the thing under the cursor
 app-emacs/d-mode 202003130913: D Programming Language major mode for (X)Emacs
 app-emacs/dart-mode 1.0.7: Major mode for editing Dart files
 app-emacs/denote-refs 0.1.2: Show links and backlinks in Denote notes
