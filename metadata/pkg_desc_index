@@ -93,6 +93,7 @@ app-emacs/go-mode 1.6.0: Major mode for the Go programming language
 app-emacs/golden-ratio 1.0.1: Automatic resizing of Emacs windows to the golden ratio
 app-emacs/gotham-theme 1.1.9: A very dark Emacs color theme
 app-emacs/goto-chg 1.7.5: Go to last change
+app-emacs/gptel 0.8.6: Interact with ChatGPT or other LLMs
 app-emacs/graphql-mode 1.0.0: Major mode for editing GraphQL schemas
 app-emacs/gruber-darker-theme 0.7: Gruber Darker color theme for Emacs 24.
 app-emacs/gruvbox-theme 1.30.1: A retro-groove colour theme for Emacs
