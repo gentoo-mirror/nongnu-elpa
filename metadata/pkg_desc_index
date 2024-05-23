@@ -73,7 +73,7 @@ app-emacs/focus 1.0.1: Dim the font color of text in surrounding sections
 app-emacs/forth-mode 0.2: Programming language mode for Forth
 app-emacs/free-keys 1.0: Show free keybindings for modkeys or prefixes
 app-emacs/gc-buffers 1.0: Kill garbage buffers automatically
-app-emacs/geiser 0.30: GNU Emacs and Scheme talk to each other
+app-emacs/geiser 0.31: GNU Emacs and Scheme talk to each other
 app-emacs/geiser-chez 0.18: Chez and Geiser talk to each other
 app-emacs/geiser-chibi 0.17: Chibi Scheme's implementation of the geiser protocols
 app-emacs/geiser-chicken 0.17: Chicken's implementation of the geiser protocols
