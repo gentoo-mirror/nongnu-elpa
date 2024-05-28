@@ -7,7 +7,7 @@ app-emacs/anti-zenburn-theme 2.5.1: Low-contrast Zenburn-inverted theme
 app-emacs/anzu 0.64: Show number of matches in mode-line while searching
 app-emacs/apache-mode 2.2.0: Major mode for editing Apache httpd configuration files
 app-emacs/apropospriate-theme 0.2.0: A light & dark theme set for Emacs.
-app-emacs/arduino-mode 1.3.0: Major mode for editing Arduino code
+app-emacs/arduino-mode 1.3.1: Major mode for editing Arduino code
 app-emacs/auto-dim-other-buffers 2.1.1: Makes windows without focus less prominent
 app-emacs/autothemer 0.2.18: Conveniently define themes
 app-emacs/base32 1.0: Base32 support
@@ -23,7 +23,7 @@ app-emacs/camera 0.3: Take picture with your camera
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cdlatex 4.18.4: Fast input methods for LaTeX environments and math
 app-emacs/cider 1.13.1: Clojure Interactive Development Environment that Rocks
-app-emacs/clojure-mode 5.18.1: Major mode for Clojure code
+app-emacs/clojure-mode 5.19.0: Major mode for Clojure code
 app-emacs/clojure-ts-mode 0.2.2: Major mode for Clojure code
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
 app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
@@ -127,7 +127,7 @@ app-emacs/macrostep 0.9.4: Interactive macro expander
 app-emacs/magit 3.3.0: A Git porcelain inside Emacs
 app-emacs/magit-section 3.3.0: Sections for read-only buffers
 app-emacs/markdown-mode 2.6: Major mode for Markdown-formatted text
-app-emacs/mastodon 1.0.21: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.0.22: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
 app-emacs/meow 1.4.5: Yet Another modal editing
