@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="Major mode for editing Arduino code"
 
-HOMEPAGE="https://github.com/stardiviner/arduino-mode"
+HOMEPAGE="https://repo.or.cz/arduino-mode.git"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
