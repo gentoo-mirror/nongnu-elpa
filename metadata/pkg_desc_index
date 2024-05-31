@@ -22,7 +22,7 @@ app-emacs/buttercup 1.35: Behavior-Driven Emacs Lisp Testing
 app-emacs/camera 0.3: Take picture with your camera
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cdlatex 4.18.4: Fast input methods for LaTeX environments and math
-app-emacs/cider 1.13.1: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 1.14.0: Clojure Interactive Development Environment that Rocks
 app-emacs/clojure-mode 5.19.0: Major mode for Clojure code
 app-emacs/clojure-ts-mode 0.2.2: Major mode for Clojure code
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
@@ -102,7 +102,7 @@ app-emacs/haml-mode 3.2.1: Major mode for editing Haml files
 app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
 app-emacs/helm 3.9.8: Helm is an Emacs incremental and narrowing framework
-app-emacs/helm-core 3.9.8: Development files for Helm
+app-emacs/helm-core 3.9.9: Development files for Helm
 app-emacs/highlight-parentheses 2.2.2: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
 app-emacs/hl-column 1.0: Highlight the current column
