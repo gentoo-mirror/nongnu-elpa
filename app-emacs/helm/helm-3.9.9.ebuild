@@ -19,8 +19,6 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/helm-core
-	app-emacs/wfnames
-	app-emacs/popup"
+	app-emacs/wfnames"
 RDEPEND="app-emacs/helm-core
-	app-emacs/wfnames
-	app-emacs/popup"
+	app-emacs/wfnames"
