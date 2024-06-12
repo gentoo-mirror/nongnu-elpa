@@ -116,7 +116,7 @@ app-emacs/inf-clojure 3.2.1: Run an external Clojure process in an Emacs buffer
 app-emacs/inf-ruby 2.8.1: Run a Ruby process in a buffer
 app-emacs/inkpot-theme 0.1: A port of vim's inkpot theme
 app-emacs/iwindow 1.1: Interactively manipulate windows
-app-emacs/j-mode 1.1.1: Major mode for editing J programs
+app-emacs/j-mode 2.0.1: Major mode for editing J programs
 app-emacs/jade-mode 1.0.1: Major mode for editing .jade files
 app-emacs/jinja2-mode 0.3: A major mode for jinja2
 app-emacs/julia-mode 0.4: Major mode for editing Julia source code
