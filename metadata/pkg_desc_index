@@ -150,7 +150,7 @@ app-emacs/org-journal 2.2.0: a simple org-mode based journaling mode
 app-emacs/org-mime 0.3.2: org html export for text/html MIME emails
 app-emacs/org-present 0.1: Minimalist presentation minor-mode for Emacs org-mode.
 app-emacs/org-superstar-mode 1.5.1: Prettify headings and plain lists in Org mode
-app-emacs/org-transclusion-http 0.3: Transclude over HTTP
+app-emacs/org-transclusion-http 0.4: Transclude over HTTP
 app-emacs/org-tree-slide 2.8.22: A presentation tool for org-mode
 app-emacs/orgit 1.9.0: Support for Org links to Magit buffers
 app-emacs/p4-16-mode 0.3: Support for the P4_16 programming language
