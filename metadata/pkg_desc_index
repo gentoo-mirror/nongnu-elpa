@@ -12,6 +12,7 @@ app-emacs/auto-dim-other-buffers 2.1.1: Makes windows without focus less promine
 app-emacs/autothemer 0.2.18: Conveniently define themes
 app-emacs/base32 1.0: Base32 support
 app-emacs/bash-completion 3.1.1: Bash completion for the shell buffer
+app-emacs/beancount 0.9: A major mode to edit Beancount input files.
 app-emacs/better-jumper 1.0.1: configurable jump list
 app-emacs/bind-map 1.1.2: Bind personal keymaps in multiple locations
 app-emacs/bison-mode 0.4: Major mode for editing bison, yacc and lex files.
@@ -94,7 +95,7 @@ app-emacs/go-mode 1.6.0: Major mode for the Go programming language
 app-emacs/golden-ratio 1.0.1: Automatic resizing of Emacs windows to the golden ratio
 app-emacs/gotham-theme 1.1.9: A very dark Emacs color theme
 app-emacs/goto-chg 1.7.5: Go to last change
-app-emacs/gptel 0.8.6: Interact with ChatGPT or other LLMs
+app-emacs/gptel 0.9.0: Interact with ChatGPT or other LLMs
 app-emacs/graphql-mode 1.0.0: Major mode for editing GraphQL schemas
 app-emacs/gruber-darker-theme 0.7: Gruber Darker color theme for Emacs 24.
 app-emacs/gruvbox-theme 1.30.1: A retro-groove colour theme for Emacs
@@ -169,7 +170,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.8.0: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20240620.135010: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20240621.124732: Racket editing, REPL, and more
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
 app-emacs/recomplete 0.2: Immediately (re)complete actions
@@ -220,7 +221,7 @@ app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wfnames 1.2: Edit filenames
 app-emacs/wgrep 3.0.0: Writable grep buffer and apply the changes to files
 app-emacs/why-this 2.0.4: Why is this line here? Ask version control
-app-emacs/with-editor 3.3.3: Use the Emacsclient as $EDITOR
+app-emacs/with-editor 3.3.4: Use the Emacsclient as $EDITOR
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/workroom 2.3.1: Named rooms for work without irrelevant distracting buffers
 app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
