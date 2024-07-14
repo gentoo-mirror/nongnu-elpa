@@ -5,14 +5,14 @@ EAPI=8
 
 REPO_URI="https://elpa.nongnu.org/nongnu/"
 SOURCE_TYPE="tar"
-REALNAME="undo-fu-session"
+REALNAME="dslide"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Persistent undo, available between sessions"
+DESCRIPTION="Domain Specific sLIDEs. A presentation framework"
 
-HOMEPAGE="https://codeberg.com/ideasman42/emacs-undo-fu-session"
+HOMEPAGE="https://github.com/positron-solutions/dslide"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
