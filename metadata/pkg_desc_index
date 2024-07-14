@@ -23,7 +23,7 @@ app-emacs/buttercup 1.35: Behavior-Driven Emacs Lisp Testing
 app-emacs/camera 0.3: Take picture with your camera
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cdlatex 4.18.4: Fast input methods for LaTeX environments and math
-app-emacs/cider 1.15.0: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 1.15.1: Clojure Interactive Development Environment that Rocks
 app-emacs/clojure-mode 5.19.0: Major mode for Clojure code
 app-emacs/clojure-ts-mode 0.2.2: Major mode for Clojure code
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
@@ -43,11 +43,12 @@ app-emacs/doc-show-inline 0.1: Show doc-strings found in external files
 app-emacs/dockerfile-mode 1.7: Major mode for editing Docker's Dockerfiles
 app-emacs/dracula-theme 1.8.2: Dracula Theme
 app-emacs/drupal-mode 0.7.4: Advanced minor mode for Drupal development
+app-emacs/dslide 0.5.3: Domain Specific sLIDEs. A presentation framework
 app-emacs/eat 0.9.4: Emulate A Terminal, in a region, in a buffer and in Eshell
 app-emacs/edit-indirect 0.1.13: Edit regions in separate buffers
 app-emacs/editorconfig 0.11.0: EditorConfig Emacs Plugin
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
-app-emacs/elpher 3.6.1: A friendly gopher and gemini client
+app-emacs/elpher 3.6.2: A friendly gopher and gemini client
 app-emacs/engine-mode 2.2.4: Define and query search engines
 app-emacs/evil 1.15.0: extensible vi layer
 app-emacs/evil-anzu 0.2: anzu for evil-mode
@@ -195,7 +196,7 @@ app-emacs/spell-fu 0.3: Fast & light spelling highlighter
 app-emacs/sqlite3 0.17: Direct access to the core SQLite3 API
 app-emacs/stylus-mode 1.0.1: Major mode for editing .styl files
 app-emacs/subatomic-theme 1.8.2: Low contrast bluish color theme
-app-emacs/subed 1.2.11: A major mode for editing subtitles
+app-emacs/subed 1.2.14: A major mode for editing subtitles
 app-emacs/sweeprolog 0.27.5: Embedded SWI-Prolog
 app-emacs/swift-mode 9.1.0: Major-mode for Apple's Swift programming language
 app-emacs/symbol-overlay 4.1: Highlight symbols with keymap-enabled overlays
@@ -212,7 +213,7 @@ app-emacs/tuareg 3.0.1: OCaml mode
 app-emacs/typescript-mode 0.4: Major mode for editing typescript
 app-emacs/ujelly-theme 1.2.9: Ujelly theme for GNU Emacs 24 (deftheme)
 app-emacs/undo-fu 0.5: Undo helper with redo
-app-emacs/undo-fu-session 0.6: Persistent undo, available between sessions
+app-emacs/undo-fu-session 0.7: Persistent undo, available between sessions
 app-emacs/vc-fossil 20230504: VC backend for the fossil sofware configuraiton management system
 app-emacs/vcomplete 2.0: Visual completions
 app-emacs/visual-fill-column 2.6.3: fill-column for visual-line-mode
@@ -226,7 +227,7 @@ app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interacti
 app-emacs/workroom 2.3.1: Named rooms for work without irrelevant distracting buffers
 app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
 app-emacs/ws-butler 0.6: Unobtrusively remove trailing whitespace.
-app-emacs/xah-fly-keys 25.9.20240621104221: ergonomic modal keybinding minor mode.
+app-emacs/xah-fly-keys 25.9.20240703220947: ergonomic modal keybinding minor mode.
 app-emacs/xkcd 1.1: View xkcd from Emacs
 app-emacs/xml-rpc 1.6.17: An elisp implementation of clientside XML-RPC
 app-emacs/yaml-mode 0.0.16: Major mode for editing YAML files
