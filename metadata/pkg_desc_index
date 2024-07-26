@@ -222,12 +222,12 @@ app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wfnames 1.2: Edit filenames
 app-emacs/wgrep 3.0.0: Writable grep buffer and apply the changes to files
 app-emacs/why-this 2.0.4: Why is this line here? Ask version control
-app-emacs/with-editor 3.3.4: Use the Emacsclient as $EDITOR
+app-emacs/with-editor 3.4.0: Use the Emacsclient as $EDITOR
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/workroom 2.3.1: Named rooms for work without irrelevant distracting buffers
 app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
 app-emacs/ws-butler 0.6: Unobtrusively remove trailing whitespace.
-app-emacs/xah-fly-keys 25.9.20240703220947: ergonomic modal keybinding minor mode.
+app-emacs/xah-fly-keys 25.9.20240725161125: ergonomic modal keybinding minor mode.
 app-emacs/xkcd 1.1: View xkcd from Emacs
 app-emacs/xml-rpc 1.6.17: An elisp implementation of clientside XML-RPC
 app-emacs/yaml-mode 0.0.16: Major mode for editing YAML files
