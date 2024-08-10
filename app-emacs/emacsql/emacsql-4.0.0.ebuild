@@ -5,22 +5,18 @@ EAPI=8
 
 REPO_URI="https://elpa.nongnu.org/nongnu/"
 SOURCE_TYPE="tar"
-REALNAME="git-commit"
+REALNAME="emacsql"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Edit Git commit messages"
+DESCRIPTION="High-level SQL database front-end"
 
-HOMEPAGE="https://github.com/magit/magit"
+HOMEPAGE="https://github.com/magit/emacsql"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/dash
-	app-emacs/transient
-	app-emacs/with-editor"
-RDEPEND="app-emacs/dash
-	app-emacs/transient
-	app-emacs/with-editor"
+DEPEND=""
+RDEPEND=""
