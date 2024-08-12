@@ -83,7 +83,7 @@ app-emacs/geiser-chibi 0.17: Chibi Scheme's implementation of the geiser protoco
 app-emacs/geiser-chicken 0.17: Chicken's implementation of the geiser protocols
 app-emacs/geiser-gambit 0.18.1: Gambit's implementation of the geiser protocols
 app-emacs/geiser-gauche 0.0.2: Gauche scheme support for Geiser
-app-emacs/geiser-guile 0.28.1: Guile and Geiser talk to each other
+app-emacs/geiser-guile 0.28.2: Guile and Geiser talk to each other
 app-emacs/geiser-kawa 0.0.1: Kawa scheme support for Geiser
 app-emacs/geiser-mit 0.15: MIT/GNU Scheme's implementation of the geiser protocols
 app-emacs/geiser-racket 0.16: Support for Racket in Geiser
