@@ -33,7 +33,7 @@ app-emacs/crux 0.5.0: A Collection of Ridiculously Useful eXtensions
 app-emacs/csv2ledger 1.5.4: Convert csv files to ledger entries
 app-emacs/cyberpunk-theme 1.22: Cyberpunk Color Theme
 app-emacs/cycle-at-point 0.2: Cycle (rotate) the thing under the cursor
-app-emacs/d-mode 202405290611: D Programming Language major mode for (X)Emacs
+app-emacs/d-mode 202408131340: D Programming Language major mode for (X)Emacs
 app-emacs/dart-mode 1.0.7: Major mode for editing Dart files
 app-emacs/denote-refs 0.1.2: Show links and backlinks in Denote notes
 app-emacs/devhelp 1.0: Browse documentation in Devhelp format
