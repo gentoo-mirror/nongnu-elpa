@@ -150,7 +150,7 @@ app-emacs/org-auto-tangle 0.6.0: Automatically and Asynchronously tangles org fi
 app-emacs/org-contrib 0.4.2: Unmaintained add-ons for Org-mode
 app-emacs/org-drill 2.7.0: Self-testing using spaced repetition
 app-emacs/org-journal 2.2.0: a simple org-mode based journaling mode
-app-emacs/org-mime 0.3.2: org html export for text/html MIME emails
+app-emacs/org-mime 0.3.3: org html export for text/html MIME emails
 app-emacs/org-present 0.1: Minimalist presentation minor-mode for Emacs org-mode.
 app-emacs/org-superstar-mode 1.5.1: Prettify headings and plain lists in Org mode
 app-emacs/org-transclusion-http 0.4: Transclude over HTTP
