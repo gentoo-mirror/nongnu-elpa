@@ -49,7 +49,7 @@ app-emacs/edit-indirect 0.1.13: Edit regions in separate buffers
 app-emacs/editorconfig 0.11.0: EditorConfig Emacs Plugin
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elpher 3.6.2: A friendly gopher and gemini client
-app-emacs/emacsql 4.0.0: High-level SQL database front-end
+app-emacs/emacsql 4.0.1: High-level SQL database front-end
 app-emacs/engine-mode 2.2.4: Define and query search engines
 app-emacs/evil 1.15.0: extensible vi layer
 app-emacs/evil-anzu 0.2: anzu for evil-mode
