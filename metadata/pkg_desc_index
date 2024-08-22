@@ -107,7 +107,7 @@ app-emacs/haml-mode 3.2.1: Major mode for editing Haml files
 app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
 app-emacs/helm 3.9.9: Helm is an Emacs incremental and narrowing framework
-app-emacs/helm-core 3.9.9: Development files for Helm
+app-emacs/helm-core 4.0: Development files for Helm
 app-emacs/hideshowvis 0.8: Fringe markers for regions foldable by hideshow.el
 app-emacs/highlight-parentheses 2.2.2: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
@@ -181,7 +181,7 @@ app-emacs/reformatter 0.8: Define commands which run reformatters on the current
 app-emacs/request 0.3.3: Compatible layer for URL request in Emacs
 app-emacs/rfc-mode 1.4.2: RFC document browser and viewer
 app-emacs/rubocop 0.6.0: An Emacs interface for RuboCop
-app-emacs/rust-mode 1.0.5: A major-mode for editing Rust source code
+app-emacs/rust-mode 1.0.6: A major-mode for editing Rust source code
 app-emacs/sass-mode 3.0.16: Major mode for editing Sass files
 app-emacs/scad-mode 94.0: A major mode for editing OpenSCAD code
 app-emacs/scala-mode 1.1.0: Major mode for editing Scala
