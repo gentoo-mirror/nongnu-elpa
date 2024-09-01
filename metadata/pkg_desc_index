@@ -49,7 +49,7 @@ app-emacs/edit-indirect 0.1.13: Edit regions in separate buffers
 app-emacs/editorconfig 0.11.0: EditorConfig Emacs Plugin
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elpher 3.6.2: A friendly gopher and gemini client
-app-emacs/emacsql 4.0.1: High-level SQL database front-end
+app-emacs/emacsql 4.0.2: High-level SQL database front-end
 app-emacs/engine-mode 2.2.4: Define and query search engines
 app-emacs/evil 1.15.0: extensible vi layer
 app-emacs/evil-anzu 0.2: anzu for evil-mode
@@ -88,7 +88,6 @@ app-emacs/geiser-kawa 0.0.1: Kawa scheme support for Geiser
 app-emacs/geiser-mit 0.15: MIT/GNU Scheme's implementation of the geiser protocols
 app-emacs/geiser-racket 0.16: Support for Racket in Geiser
 app-emacs/geiser-stklos 1.8: STklos Scheme implementation of the geiser protocols
-app-emacs/git-commit 4.0.0: Edit Git commit messages
 app-emacs/git-modes 1.4.4: Major modes for editing Git configuration files
 app-emacs/gnosis 0.4.1: Spaced Repetition System
 app-emacs/gnu-apl-mode 1.5.1: Emacs mode for GNU APL
@@ -224,7 +223,7 @@ app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wfnames 1.2: Edit filenames
 app-emacs/wgrep 3.0.0: Writable grep buffer and apply the changes to files
 app-emacs/why-this 2.0.4: Why is this line here? Ask version control
-app-emacs/with-editor 3.4.1: Use the Emacsclient as $EDITOR
+app-emacs/with-editor 3.4.2: Use the Emacsclient as $EDITOR
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/workroom 2.3.1: Named rooms for work without irrelevant distracting buffers
 app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
