@@ -77,7 +77,7 @@ app-emacs/focus 1.0.1: Dim the font color of text in surrounding sections
 app-emacs/forth-mode 0.2: Programming language mode for Forth
 app-emacs/free-keys 1.0: Show free keybindings for modkeys or prefixes
 app-emacs/gc-buffers 1.0: Kill garbage buffers automatically
-app-emacs/geiser 0.31: GNU Emacs and Scheme talk to each other
+app-emacs/geiser 0.31.1: GNU Emacs and Scheme talk to each other
 app-emacs/geiser-chez 0.18: Chez and Geiser talk to each other
 app-emacs/geiser-chibi 0.17: Chibi Scheme's implementation of the geiser protocols
 app-emacs/geiser-chicken 0.17: Chicken's implementation of the geiser protocols
@@ -129,8 +129,8 @@ app-emacs/kotlin-mode 2.0.0: Major mode for kotlin
 app-emacs/lorem-ipsum 0.4: Insert dummy pseudo Latin text
 app-emacs/lua-mode 20221027: a major-mode for editing Lua scripts
 app-emacs/macrostep 0.9.4: Interactive macro expander
-app-emacs/magit 4.0.0: A Git porcelain inside Emacs
-app-emacs/magit-section 4.0.0: Sections for read-only buffers
+app-emacs/magit 4.1.0: A Git porcelain inside Emacs
+app-emacs/magit-section 4.1.0: Sections for read-only buffers
 app-emacs/markdown-mode 2.6: Major mode for Markdown-formatted text
 app-emacs/mastodon 1.0.26: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
