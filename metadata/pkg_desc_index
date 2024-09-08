@@ -148,7 +148,7 @@ app-emacs/nix-mode 1.5.0: Major mode for editing .nix files
 app-emacs/oblivion-theme 0.1: A port of GEdit oblivion theme
 app-emacs/opam-switch-mode 1.7: Select OCaml opam switches via a menu
 app-emacs/org-auto-tangle 0.6.0: Automatically and Asynchronously tangles org files on save
-app-emacs/org-contrib 0.4.2: Unmaintained add-ons for Org-mode
+app-emacs/org-contrib 0.6: Unmaintained add-ons for Org-mode
 app-emacs/org-drill 2.7.0: Self-testing using spaced repetition
 app-emacs/org-journal 2.2.0: a simple org-mode based journaling mode
 app-emacs/org-mime 0.3.3: org html export for text/html MIME emails
