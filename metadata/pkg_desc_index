@@ -113,7 +113,7 @@ app-emacs/highlight-parentheses 2.2.2: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
 app-emacs/hl-column 1.0: Highlight the current column
 app-emacs/htmlize 1.56: Convert buffer text and decorations to HTML.
-app-emacs/hyperdrive 0.3: P2P filesystem
+app-emacs/hyperdrive 0.4: P2P filesystem
 app-emacs/idle-highlight-mode 1.1.4: Highlight the word the point is on
 app-emacs/idris-mode 1.1.0: Major mode for editing Idris code
 app-emacs/iedit 0.9.9.9.9: Edit multiple regions in the same way simultaneously.
