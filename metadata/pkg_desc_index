@@ -114,6 +114,7 @@ app-emacs/hl-block-mode 0.2: Highlighting nested blocks
 app-emacs/hl-column 1.0: Highlight the current column
 app-emacs/htmlize 1.58: Convert buffer text and decorations to HTML.
 app-emacs/hyperdrive 0.4.1: P2P filesystem
+app-emacs/hyperdrive-org-transclusion 0.1: Tranclude hyperdrive content
 app-emacs/idle-highlight-mode 1.1.4: Highlight the word the point is on
 app-emacs/idris-mode 1.1.0: Major mode for editing Idris code
 app-emacs/iedit 0.9.9.9.9: Edit multiple regions in the same way simultaneously.
@@ -173,7 +174,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.8.0: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20240920.145936: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20240921.204525: Racket editing, REPL, and more
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
 app-emacs/recomplete 0.2: Immediately (re)complete actions
