@@ -1,12 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DESCRIPTION=Major mode for editing Julia source code
+DESCRIPTION=ergonomic modal keybinding minor mode.
 EAPI=8
-HOMEPAGE=https://github.com/JuliaLang/julia
+HOMEPAGE=http://xahlee.info/emacs/misc/xah-fly-keys.html
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://elpa.nongnu.org/nongnu/julia-mode-0.4.tar
+SRC_URI=https://elpa.nongnu.org/nongnu/xah-fly-keys-26.5.20240927134725.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=69f1709b2f17dab0312614ca6659d7a1
+_md5_=a66ff245d0ab1a5c0e933fa78ccc1a4c
