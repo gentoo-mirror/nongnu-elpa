@@ -7,6 +7,6 @@ INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://elpa.nongnu.org/nongnu/anzu-0.65.tar
+SRC_URI=https://elpa.nongnu.org/nongnu/anzu-0.66.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
 _md5_=7b70c42c7294fa77ae414be04d895312
