@@ -211,6 +211,7 @@ app-emacs/testcover-mark-line 0.3: Mark whole line with Testcover
 app-emacs/textile-mode 1.0.0: Textile markup editing major mode
 app-emacs/toc-org 1.1: add table of contents to org-mode files (formerly, org-toc)
 app-emacs/totp-auth 1.0: RFC6238 TOTP
+app-emacs/tp 0.2: Transient utilities for posting to an API
 app-emacs/treeview 1.2.0: A generic tree navigation library
 app-emacs/tuareg 3.0.1: OCaml mode
 app-emacs/typescript-mode 0.4: Major mode for editing typescript
