@@ -10,13 +10,13 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Transient utilities for posting to an API"
+DESCRIPTION="Utilities for transient menus that POST to an API"
 
-HOMEPAGE="https://codeberg.org/martianh/transient-post.el"
+HOMEPAGE="https://codeberg.org/martianh/tp.el"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND=""
-RDEPEND=""
+DEPEND="app-emacs/transient"
+RDEPEND="app-emacs/transient"
