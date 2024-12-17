@@ -23,7 +23,7 @@ app-emacs/buttercup 1.36: Behavior-Driven Emacs Lisp Testing
 app-emacs/camera 0.3: Take picture with your camera
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cdlatex 4.18.5: Fast input methods for LaTeX environments and math
-app-emacs/cider 1.16.0: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 1.16.1: Clojure Interactive Development Environment that Rocks
 app-emacs/clojure-mode 5.19.0: Major mode for Clojure code
 app-emacs/clojure-ts-mode 0.2.2: Major mode for Clojure code
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
@@ -39,17 +39,20 @@ app-emacs/denote-refs 0.1.2: Show links and backlinks in Denote notes
 app-emacs/devhelp 1.0: Browse documentation in Devhelp format
 app-emacs/devil 0.6.0: Minor mode for translating key sequences
 app-emacs/diff-ansi 0.2: Display diff's using alternative diffing tools
+app-emacs/dirvish 2.0.53: A modern file manager based on dired mode
 app-emacs/doc-show-inline 0.1: Show doc-strings found in external files
 app-emacs/dockerfile-mode 1.7: Major mode for editing Docker's Dockerfiles
 app-emacs/dracula-theme 1.8.2: Dracula Theme
 app-emacs/drupal-mode 0.8.1: Advanced minor mode for Drupal development
-app-emacs/dslide 0.5.3: Domain Specific sLIDEs. A presentation framework
+app-emacs/dslide 0.5.5: Domain Specific sLIDEs. A presentation framework
 app-emacs/eat 0.9.4: Emulate A Terminal, in a region, in a buffer and in Eshell
 app-emacs/edit-indirect 0.1.13: Edit regions in separate buffers
 app-emacs/editorconfig 0.11.0: EditorConfig Emacs Plugin
+app-emacs/eglot-inactive-regions 0.6.3: Highlight inactive code regions with eglot power
+app-emacs/eldoc-diffstat 1.0: Make VCS diffstat available via eldoc
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elpher 3.6.4: A friendly gopher and gemini client
-app-emacs/emacsql 4.0.3: High-level SQL database front-end
+app-emacs/emacsql 4.1.0: High-level SQL database front-end
 app-emacs/engine-mode 2.2.4: Define and query search engines
 app-emacs/evil 1.15.0: extensible vi layer
 app-emacs/evil-anzu 0.2: anzu for evil-mode
@@ -60,7 +63,7 @@ app-emacs/evil-goggles 0.0.2: Add a visual hint to evil operations
 app-emacs/evil-iedit-state 1.3: Evil states to interface iedit mode.
 app-emacs/evil-indent-plus 1.0.1: Evil textobjects based on indentation
 app-emacs/evil-lisp-state 8.2: An evil state to edit Lisp code
-app-emacs/evil-matchit 3.0.4: Vim matchit ported to Evil
+app-emacs/evil-matchit 4.0.1: Vim matchit ported to Evil
 app-emacs/evil-nerd-commenter 3.6.1: Comment/uncomment lines efficiently. Like Nerd Commenter in Vim
 app-emacs/evil-numbers 0.7: Increment/decrement numbers like in VIM
 app-emacs/evil-surround 1.0.4: emulate surround.vim from Vim
@@ -89,7 +92,7 @@ app-emacs/geiser-mit 0.15: MIT/GNU Scheme's implementation of the geiser protoco
 app-emacs/geiser-racket 0.16: Support for Racket in Geiser
 app-emacs/geiser-stklos 1.8: STklos Scheme implementation of the geiser protocols
 app-emacs/git-modes 1.4.4: Major modes for editing Git configuration files
-app-emacs/gnosis 0.4.8: Spaced Repetition System
+app-emacs/gnosis 0.4.10: Spaced Repetition System
 app-emacs/gnu-apl-mode 1.5.1: Emacs mode for GNU APL
 app-emacs/gnu-indent 1.0: Indent your code with GNU Indent
 app-emacs/gnuplot 0.8.1: Major-mode and interactive frontend for gnuplot
@@ -97,7 +100,7 @@ app-emacs/go-mode 1.6.0: Major mode for the Go programming language
 app-emacs/golden-ratio 1.0.1: Automatic resizing of Emacs windows to the golden ratio
 app-emacs/gotham-theme 1.1.9: A very dark Emacs color theme
 app-emacs/goto-chg 1.7.5: Go to last change
-app-emacs/gptel 0.9.6: Interact with ChatGPT or other LLMs
+app-emacs/gptel 0.9.7: Interact with ChatGPT or other LLMs
 app-emacs/graphql-mode 1.0.0: Major mode for editing GraphQL schemas
 app-emacs/gruber-darker-theme 0.7: Gruber Darker color theme for Emacs 24.
 app-emacs/gruvbox-theme 1.30.1: A retro-groove colour theme for Emacs
@@ -113,7 +116,7 @@ app-emacs/highlight-parentheses 2.2.2: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
 app-emacs/hl-column 1.0: Highlight the current column
 app-emacs/htmlize 1.58: Convert buffer text and decorations to HTML.
-app-emacs/hyperdrive 0.4.2: P2P filesystem
+app-emacs/hyperdrive 0.5: P2P filesystem
 app-emacs/hyperdrive-org-transclusion 0.3.1: Tranclude hyperdrive content
 app-emacs/idle-highlight-mode 1.1.4: Highlight the word the point is on
 app-emacs/idris-mode 1.1.0: Major mode for editing Idris code
@@ -125,16 +128,16 @@ app-emacs/iwindow 1.1: Interactively manipulate windows
 app-emacs/j-mode 2.0.1: Major mode for editing J programs
 app-emacs/jade-mode 1.0.1: Major mode for editing .jade files
 app-emacs/jinja2-mode 0.3: A major mode for jinja2
-app-emacs/julia-mode 1.0.1: Major mode for editing Julia source code
+app-emacs/julia-mode 1.0.2: Major mode for editing Julia source code
 app-emacs/keycast 1.4.1: Show current command and its binding
 app-emacs/kotlin-mode 2.0.0: Major mode for kotlin
 app-emacs/lorem-ipsum 0.4: Insert dummy pseudo Latin text
 app-emacs/lua-mode 20221027: a major-mode for editing Lua scripts
 app-emacs/macrostep 0.9.4: Interactive macro expander
-app-emacs/magit 4.1.2: A Git porcelain inside Emacs
-app-emacs/magit-section 4.1.2: Sections for read-only buffers
+app-emacs/magit 4.1.3: A Git porcelain inside Emacs
+app-emacs/magit-section 4.1.3: Sections for read-only buffers
 app-emacs/markdown-mode 2.6: Major mode for Markdown-formatted text
-app-emacs/mastodon 1.1.5: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.1.7: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
 app-emacs/meow 1.5.0: Yet Another modal editing
@@ -174,7 +177,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.8.0: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20241116.120019: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20241216.83424: Racket editing, REPL, and more
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
 app-emacs/recomplete 0.2: Immediately (re)complete actions
@@ -190,7 +193,7 @@ app-emacs/scroll-on-drag 0.1: Interactive scrolling.
 app-emacs/scroll-on-jump 0.2: Scroll when jumping to a new point
 app-emacs/sesman 0.3.2: Generic Session Manager
 app-emacs/shellcop 0.1.0: Analyze info&error in shell-mode
-app-emacs/slime 2.30: Superior Lisp Interaction Mode for Emacs
+app-emacs/slime 2.31: Superior Lisp Interaction Mode for Emacs
 app-emacs/sly 1.0.43: Sylvester the Cat's Common Lisp IDE
 app-emacs/smartparens 1.11.0: Automatic insertion, wrapping and paredit-like navigation with user defined pairs.
 app-emacs/solarized-theme 2.0.1: The Solarized color theme
@@ -226,7 +229,7 @@ app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wfnames 1.2: Edit filenames
 app-emacs/wgrep 3.0.0: Writable grep buffer and apply the changes to files
 app-emacs/why-this 2.0.4: Why is this line here? Ask version control
-app-emacs/with-editor 3.4.2: Use the Emacsclient as $EDITOR
+app-emacs/with-editor 3.4.3: Use the Emacsclient as $EDITOR
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/workroom 2.3.1: Named rooms for work without irrelevant distracting buffers
 app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
