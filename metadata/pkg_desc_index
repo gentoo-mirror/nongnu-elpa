@@ -44,7 +44,7 @@ app-emacs/doc-show-inline 0.1: Show doc-strings found in external files
 app-emacs/dockerfile-mode 1.7: Major mode for editing Docker's Dockerfiles
 app-emacs/dracula-theme 1.8.2: Dracula Theme
 app-emacs/drupal-mode 0.8.1: Advanced minor mode for Drupal development
-app-emacs/dslide 0.5.5: Domain Specific sLIDEs. A presentation framework
+app-emacs/dslide 0.6.0: Domain Specific sLIDEs. Programmable Presentation
 app-emacs/eat 0.9.4: Emulate A Terminal, in a region, in a buffer and in Eshell
 app-emacs/edit-indirect 0.1.13: Edit regions in separate buffers
 app-emacs/editorconfig 0.11.0: EditorConfig Emacs Plugin
@@ -177,7 +177,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.8.0: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20241216.83424: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20241217.125843: Racket editing, REPL, and more
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
 app-emacs/recomplete 0.2: Immediately (re)complete actions
