@@ -10,7 +10,7 @@ DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="Domain Specific sLIDEs. A presentation framework"
+DESCRIPTION="Domain Specific sLIDEs. Programmable Presentation"
 
 HOMEPAGE="https://github.com/positron-solutions/dslide"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
