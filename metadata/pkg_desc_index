@@ -137,7 +137,7 @@ app-emacs/macrostep 0.9.4: Interactive macro expander
 app-emacs/magit 4.1.3: A Git porcelain inside Emacs
 app-emacs/magit-section 4.1.3: Sections for read-only buffers
 app-emacs/markdown-mode 2.6: Major mode for Markdown-formatted text
-app-emacs/mastodon 1.1.7: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.1.8: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
 app-emacs/meow 1.5.0: Yet Another modal editing
