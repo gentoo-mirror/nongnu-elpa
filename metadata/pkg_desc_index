@@ -11,7 +11,7 @@ app-emacs/arduino-mode 1.3.1: Major mode for editing Arduino code
 app-emacs/auto-dim-other-buffers 2.2.1: Makes windows without focus less prominent
 app-emacs/autothemer 0.2.18: Conveniently define themes
 app-emacs/base32 1.0: Base32 support
-app-emacs/bash-completion 3.1.1: Bash completion for the shell buffer
+app-emacs/bash-completion 3.2: Bash completion for the shell buffer
 app-emacs/beancount 0.9: A major mode to edit Beancount input files.
 app-emacs/better-jumper 1.0.1: configurable jump list
 app-emacs/bind-map 1.1.2: Bind personal keymaps in multiple locations
@@ -44,7 +44,7 @@ app-emacs/doc-show-inline 0.1: Show doc-strings found in external files
 app-emacs/dockerfile-mode 1.7: Major mode for editing Docker's Dockerfiles
 app-emacs/dracula-theme 1.8.2: Dracula Theme
 app-emacs/drupal-mode 0.8.1: Advanced minor mode for Drupal development
-app-emacs/dslide 0.6.0: Domain Specific sLIDEs. Programmable Presentation
+app-emacs/dslide 0.6.2: Domain Specific sLIDEs. Programmable Presentation
 app-emacs/eat 0.9.4: Emulate A Terminal, in a region, in a buffer and in Eshell
 app-emacs/edit-indirect 0.1.13: Edit regions in separate buffers
 app-emacs/editorconfig 0.11.0: EditorConfig Emacs Plugin
@@ -134,8 +134,8 @@ app-emacs/kotlin-mode 2.0.0: Major mode for kotlin
 app-emacs/lorem-ipsum 0.4: Insert dummy pseudo Latin text
 app-emacs/lua-mode 20221027: a major-mode for editing Lua scripts
 app-emacs/macrostep 0.9.4: Interactive macro expander
-app-emacs/magit 4.1.3: A Git porcelain inside Emacs
-app-emacs/magit-section 4.1.3: Sections for read-only buffers
+app-emacs/magit 4.2.0: A Git porcelain inside Emacs
+app-emacs/magit-section 4.2.0: Sections for read-only buffers
 app-emacs/markdown-mode 2.6: Major mode for Markdown-formatted text
 app-emacs/mastodon 1.1.8: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
@@ -177,7 +177,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.8.0: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20241217.125843: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20250103.151851: Racket editing, REPL, and more
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
 app-emacs/recomplete 0.2: Immediately (re)complete actions
@@ -187,8 +187,8 @@ app-emacs/rfc-mode 1.4.2: RFC document browser and viewer
 app-emacs/rubocop 0.6.0: An Emacs interface for RuboCop
 app-emacs/rust-mode 1.0.6: A major-mode for editing Rust source code
 app-emacs/sass-mode 3.0.16: Major mode for editing Sass files
-app-emacs/scad-mode 94.0: A major mode for editing OpenSCAD code
-app-emacs/scala-mode 1.1.0: Major mode for editing Scala
+app-emacs/scad-mode 95.0: A major mode for editing OpenSCAD code
+app-emacs/scala-mode 1.1.1: Major mode for editing Scala
 app-emacs/scroll-on-drag 0.1: Interactive scrolling.
 app-emacs/scroll-on-jump 0.2: Scroll when jumping to a new point
 app-emacs/sesman 0.3.2: Generic Session Manager
