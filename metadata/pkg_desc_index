@@ -187,7 +187,7 @@ app-emacs/rfc-mode 1.4.2: RFC document browser and viewer
 app-emacs/rubocop 0.6.0: An Emacs interface for RuboCop
 app-emacs/rust-mode 1.0.6: A major-mode for editing Rust source code
 app-emacs/sass-mode 3.0.16: Major mode for editing Sass files
-app-emacs/scad-mode 95.0: A major mode for editing OpenSCAD code
+app-emacs/scad-mode 96.0: A major mode for editing OpenSCAD code
 app-emacs/scala-mode 1.1.1: Major mode for editing Scala
 app-emacs/scroll-on-drag 0.1: Interactive scrolling.
 app-emacs/scroll-on-jump 0.2: Scroll when jumping to a new point
