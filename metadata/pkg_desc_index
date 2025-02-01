@@ -35,6 +35,7 @@ app-emacs/cyberpunk-theme 1.22: Cyberpunk Color Theme
 app-emacs/cycle-at-point 0.2: Cycle (rotate) the thing under the cursor
 app-emacs/d-mode 202408131340: D Programming Language major mode for (X)Emacs
 app-emacs/dart-mode 1.0.7: Major mode for editing Dart files
+app-emacs/datetime 0.10.1: Parsing, formatting and matching timestamps
 app-emacs/denote-refs 0.1.2: Show links and backlinks in Denote notes
 app-emacs/devhelp 1.0: Browse documentation in Devhelp format
 app-emacs/devil 0.6.0: Minor mode for translating key sequences
@@ -132,6 +133,7 @@ app-emacs/jinja2-mode 0.3: A major mode for jinja2
 app-emacs/julia-mode 1.0.2: Major mode for editing Julia source code
 app-emacs/keycast 1.4.1: Show current command and its binding
 app-emacs/kotlin-mode 2.0.0: Major mode for kotlin
+app-emacs/logview 0.19.1: Major mode for viewing log files
 app-emacs/lorem-ipsum 0.4: Insert dummy pseudo Latin text
 app-emacs/lua-mode 20221027: a major-mode for editing Lua scripts
 app-emacs/macrostep 0.9.4: Interactive macro expander
