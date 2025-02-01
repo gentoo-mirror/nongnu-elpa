@@ -70,6 +70,7 @@ app-emacs/evil-surround 1.0.4: emulate surround.vim from Vim
 app-emacs/evil-visual-mark-mode 0.0.5: Display evil marks on buffer
 app-emacs/evil-visualstar 0.2.0: Starts a * or # search from the visual selection
 app-emacs/exec-path-from-shell 2.2: Get environment variables such as $PATH from the shell
+app-emacs/extmap 1.3: Externally-stored constant mapping for Elisp
 app-emacs/flx 0.6.2: fuzzy matching with good sorting
 app-emacs/flx-ido 0.6.2: flx integration for ido
 app-emacs/flycheck 34.1: On-the-fly syntax checking
