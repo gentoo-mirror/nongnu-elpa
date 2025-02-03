@@ -35,7 +35,7 @@ app-emacs/cyberpunk-theme 1.22: Cyberpunk Color Theme
 app-emacs/cycle-at-point 0.2: Cycle (rotate) the thing under the cursor
 app-emacs/d-mode 202408131340: D Programming Language major mode for (X)Emacs
 app-emacs/dart-mode 1.0.7: Major mode for editing Dart files
-app-emacs/datetime 0.10.1: Parsing, formatting and matching timestamps
+app-emacs/datetime 0.10.2: Parsing, formatting and matching timestamps
 app-emacs/denote-refs 0.1.2: Show links and backlinks in Denote notes
 app-emacs/devhelp 1.0: Browse documentation in Devhelp format
 app-emacs/devil 0.6.0: Minor mode for translating key sequences
@@ -147,7 +147,7 @@ app-emacs/material-theme 2015: A Theme based on the colors of the Google Materia
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
 app-emacs/meow 1.5.0: Yet Another modal editing
 app-emacs/minibar 0.3: Modular status bar in minibuffer
-app-emacs/moe-theme 1.0.2: A colorful eye-candy theme. Moe, moe, kyun!
+app-emacs/moe-theme 1.1.0: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/monokai-theme 3.5.3: A fruity color theme for Emacs.
 app-emacs/mpv 0.2.0: control mpv for easy note-taking
 app-emacs/multiple-cursors 1.4.0: Multiple cursors for emacs.
