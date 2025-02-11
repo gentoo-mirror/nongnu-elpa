@@ -151,7 +151,7 @@ app-emacs/minibar 0.3: Modular status bar in minibuffer
 app-emacs/moe-theme 1.1.0: A colorful eye-candy theme. Moe, moe, kyun!
 app-emacs/monokai-theme 3.5.3: A fruity color theme for Emacs.
 app-emacs/mpv 0.2.0: control mpv for easy note-taking
-app-emacs/multiple-cursors 1.4.0: Multiple cursors for emacs.
+app-emacs/multiple-cursors 1.5.0: Multiple cursors for emacs.
 app-emacs/nasm-mode 1.1.1: NASM x86 assembly major mode
 app-emacs/nginx-mode 1.1.10: major mode for editing nginx config files
 app-emacs/nix-mode 1.5.0: Major mode for editing .nix files
