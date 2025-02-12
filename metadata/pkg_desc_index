@@ -124,7 +124,7 @@ app-emacs/idle-highlight-mode 1.1.4: Highlight the word the point is on
 app-emacs/idris-mode 1.1.0: Major mode for editing Idris code
 app-emacs/iedit 0.9.9.9.9: Edit multiple regions in the same way simultaneously.
 app-emacs/inf-clojure 3.2.1: Run an external Clojure process in an Emacs buffer
-app-emacs/inf-ruby 2.8.1: Run a Ruby process in a buffer
+app-emacs/inf-ruby 2.9.0: Run a Ruby process in a buffer
 app-emacs/inkpot-theme 0.1: A port of vim's inkpot theme
 app-emacs/iwindow 1.1: Interactively manipulate windows
 app-emacs/j-mode 2.0.1: Major mode for editing J programs
