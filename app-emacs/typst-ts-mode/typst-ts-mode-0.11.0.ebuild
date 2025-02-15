@@ -5,18 +5,18 @@ EAPI=8
 
 REPO_URI="https://elpa.nongnu.org/nongnu/"
 SOURCE_TYPE="tar"
-REALNAME="dirvish"
+REALNAME="typst-ts-mode"
 DIGEST_SOURCES="yes"
 
 inherit g-sorcery gs-elpa
 
-DESCRIPTION="A modern file manager based on dired mode"
+DESCRIPTION="Tree Sitter support for Typst"
 
-HOMEPAGE="https://github.com/alexluigit/dirvish"
+HOMEPAGE="https://codeberg.org/meow_king/typst-ts-mode"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
-DEPEND="app-emacs/transient"
-RDEPEND="app-emacs/transient"
+DEPEND=""
+RDEPEND=""
