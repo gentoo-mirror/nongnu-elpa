@@ -40,7 +40,7 @@ app-emacs/denote-refs 0.1.2: Show links and backlinks in Denote notes
 app-emacs/devhelp 1.0: Browse documentation in Devhelp format
 app-emacs/devil 0.6.0: Minor mode for translating key sequences
 app-emacs/diff-ansi 0.2: Display diff's using alternative diffing tools
-app-emacs/dirvish 2.0.53: A modern file manager based on dired mode
+app-emacs/dirvish 2.1.0: A modern file manager based on dired mode
 app-emacs/doc-show-inline 0.1: Show doc-strings found in external files
 app-emacs/dockerfile-mode 1.7: Major mode for editing Docker's Dockerfiles
 app-emacs/dracula-theme 1.8.2: Dracula Theme
@@ -143,7 +143,7 @@ app-emacs/macrostep 0.9.5: Interactive macro expander
 app-emacs/magit 4.3.0: A Git porcelain inside Emacs
 app-emacs/magit-section 4.3.0: Sections for read-only buffers
 app-emacs/markdown-mode 2.6: Major mode for Markdown-formatted text
-app-emacs/mastodon 1.1.9: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.1.10: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
 app-emacs/meow 1.5.0: Yet Another modal editing
@@ -227,6 +227,7 @@ app-emacs/treesit-fold 0.2.1: Code folding using treesit
 app-emacs/treeview 1.3.1: A generic tree navigation library
 app-emacs/tuareg 3.0.1: OCaml mode
 app-emacs/typescript-mode 0.4: Major mode for editing typescript
+app-emacs/typst-ts-mode 0.11.0: Tree Sitter support for Typst
 app-emacs/ujelly-theme 1.3.6: Ujelly theme for GNU Emacs 24 (deftheme)
 app-emacs/undo-fu 0.5: Undo helper with redo
 app-emacs/undo-fu-session 0.7: Persistent undo, available between sessions
