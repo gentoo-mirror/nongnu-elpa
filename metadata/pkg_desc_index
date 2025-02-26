@@ -23,7 +23,7 @@ app-emacs/buttercup 1.37: Behavior-Driven Emacs Lisp Testing
 app-emacs/camera 0.3: Take picture with your camera
 app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cdlatex 4.18.5: Fast input methods for LaTeX environments and math
-app-emacs/cider 1.17.0: Clojure Interactive Development Environment that Rocks
+app-emacs/cider 1.17.1: Clojure Interactive Development Environment that Rocks
 app-emacs/clojure-mode 5.19.0: Major mode for Clojure code
 app-emacs/clojure-ts-mode 0.2.2: Major mode for Clojure code
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
@@ -42,7 +42,7 @@ app-emacs/devil 0.6.0: Minor mode for translating key sequences
 app-emacs/diff-ansi 0.2: Display diff's using alternative diffing tools
 app-emacs/dirvish 2.1.0: A modern file manager based on dired mode
 app-emacs/doc-show-inline 0.1: Show doc-strings found in external files
-app-emacs/dockerfile-mode 1.7: Major mode for editing Docker's Dockerfiles
+app-emacs/dockerfile-mode 1.9: Major mode for editing Docker's Dockerfiles
 app-emacs/dracula-theme 1.8.2: Dracula Theme
 app-emacs/drupal-mode 0.8.1: Advanced minor mode for Drupal development
 app-emacs/dslide 0.6.2: Domain Specific sLIDEs. Programmable Presentation
@@ -111,8 +111,8 @@ app-emacs/haml-mode 3.2.1: Major mode for editing Haml files
 app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
 app-emacs/haskell-ts-mode 1: A treesit based major mode for haskell
-app-emacs/helm 4.0.1: Helm is an Emacs incremental and narrowing framework
-app-emacs/helm-core 4.0.1: Development files for Helm
+app-emacs/helm 4.0.2: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm-core 4.0.2: Development files for Helm
 app-emacs/hideshowvis 0.8: Fringe markers for regions foldable by hideshow.el
 app-emacs/highlight-parentheses 2.2.2: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
@@ -142,7 +142,7 @@ app-emacs/lua-mode 20221027: a major-mode for editing Lua scripts
 app-emacs/macrostep 0.9.5: Interactive macro expander
 app-emacs/magit 4.3.0: A Git porcelain inside Emacs
 app-emacs/magit-section 4.3.0: Sections for read-only buffers
-app-emacs/markdown-mode 2.6: Major mode for Markdown-formatted text
+app-emacs/markdown-mode 2.7: Major mode for Markdown-formatted text
 app-emacs/mastodon 1.1.10: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
