@@ -2,7 +2,7 @@ app-emacs/adoc-mode 0.7.0: a major-mode for editing AsciiDoc files
 app-emacs/afternoon-theme 0.1: Dark color theme with a deep blue background
 app-emacs/alect-themes 0.10: Configurable light, dark and black themes for Emacs 24 or later
 app-emacs/ample-theme 0.3.0: Calm Dark Theme for Emacs
-app-emacs/annotate 2.2.3: annotate files without changing them
+app-emacs/annotate 2.3.0: annotate files without changing them
 app-emacs/anti-zenburn-theme 2.5.1: Low-contrast Zenburn-inverted theme
 app-emacs/anzu 0.66: Show number of matches in mode-line while searching
 app-emacs/apache-mode 2.2.0: Major mode for editing Apache httpd configuration files
@@ -52,7 +52,7 @@ app-emacs/editorconfig 0.11.0: EditorConfig Emacs Plugin
 app-emacs/eglot-inactive-regions 0.6.3: Highlight inactive code regions with eglot power
 app-emacs/eldoc-diffstat 1.0: Make VCS diffstat available via eldoc
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
-app-emacs/elpher 3.6.4: A friendly gopher and gemini client
+app-emacs/elpher 3.6.5: A friendly gopher and gemini client
 app-emacs/emacsql 4.2.0: High-level SQL database front-end
 app-emacs/engine-mode 2.2.4: Define and query search engines
 app-emacs/evil 1.15.0: extensible vi layer
@@ -134,7 +134,7 @@ app-emacs/julia-mode 1.0.2: Major mode for editing Julia source code
 app-emacs/keycast 1.4.2: Show current command and its binding
 app-emacs/kotlin-mode 2.0.0: Major mode for kotlin
 app-emacs/llama 0.6.1: Compact syntax for short lambda
-app-emacs/logview 0.19.1: Major mode for viewing log files
+app-emacs/logview 0.19.2: Major mode for viewing log files
 app-emacs/loopy 0.14.0: A looping macro
 app-emacs/loopy-dash 0.13.0: Dash destructuring for `loopy'
 app-emacs/lorem-ipsum 0.4: Insert dummy pseudo Latin text
