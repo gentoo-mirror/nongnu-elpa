@@ -143,7 +143,7 @@ app-emacs/macrostep 0.9.5: Interactive macro expander
 app-emacs/magit 4.3.1: A Git porcelain inside Emacs
 app-emacs/magit-section 4.3.1: Sections for read-only buffers
 app-emacs/markdown-mode 2.7: Major mode for Markdown-formatted text
-app-emacs/mastodon 1.1.11: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 1.1.12: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
 app-emacs/meow 1.5.0: Yet Another modal editing
@@ -184,7 +184,7 @@ app-emacs/projectile 2.9.1: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
 app-emacs/racket-mode 1.0.20250212.102351: Racket editing, REPL, and more
-app-emacs/radio 0.4.0: Listen to Internet radio
+app-emacs/radio 0.4.1: Listen to Internet radio
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
 app-emacs/recomplete 0.2: Immediately (re)complete actions
