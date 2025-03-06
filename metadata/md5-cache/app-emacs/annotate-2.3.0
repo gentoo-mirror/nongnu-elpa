@@ -1,13 +1,12 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/datetime app-emacs/extmap app-emacs/compat
-DESCRIPTION=Major mode for viewing log files
+DESCRIPTION=annotate files without changing them
 EAPI=8
-HOMEPAGE=https://github.com/doublep/logview
+HOMEPAGE=https://github.com/bastibe/annotate.el
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/datetime app-emacs/extmap app-emacs/compat >=app-editors/emacs-25.3:*
+RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://elpa.nongnu.org/nongnu/logview-0.19.1.tar
+SRC_URI=https://elpa.nongnu.org/nongnu/annotate-2.3.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=5d83c3a8a95d2fb9fa490a3e45237953
+_md5_=6220e0e6965ee51b617b3deaa5dfd4c8
