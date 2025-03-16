@@ -1,5 +1,6 @@
 app-emacs/adoc-mode 0.7.0: a major-mode for editing AsciiDoc files
 app-emacs/afternoon-theme 0.1: Dark color theme with a deep blue background
+app-emacs/aidermacs 1.0: AI pair programming with Aider
 app-emacs/alect-themes 0.10: Configurable light, dark and black themes for Emacs 24 or later
 app-emacs/ample-theme 0.3.0: Calm Dark Theme for Emacs
 app-emacs/annotate 2.3.0: annotate files without changing them
