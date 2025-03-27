@@ -192,6 +192,7 @@ app-emacs/recomplete 0.2: Immediately (re)complete actions
 app-emacs/reformatter 0.8: Define commands which run reformatters on the current buffer
 app-emacs/request 0.3.3: Compatible layer for URL request in Emacs
 app-emacs/rfc-mode 1.4.2: RFC document browser and viewer
+app-emacs/rpm-spec-mode 0.16: RPM spec file editing commands for Emacs/XEmacs
 app-emacs/rubocop 0.6.0: An Emacs interface for RuboCop
 app-emacs/rust-mode 1.0.6: A major-mode for editing Rust source code
 app-emacs/sass-mode 3.0.16: Major mode for editing Sass files
