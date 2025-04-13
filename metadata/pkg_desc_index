@@ -213,7 +213,7 @@ app-emacs/stylus-mode 1.0.1: Major mode for editing .styl files
 app-emacs/subatomic-theme 1.8.2: Low contrast bluish color theme
 app-emacs/subed 1.2.25: A major mode for editing subtitles
 app-emacs/sweeprolog 0.27.6: Embedded SWI-Prolog
-app-emacs/swift-mode 9.2.0: Major-mode for Apple's Swift programming language
+app-emacs/swift-mode 9.3.0: Major-mode for Apple's Swift programming language
 app-emacs/symbol-overlay 4.3: Highlight symbols with keymap-enabled overlays
 app-emacs/systemd 1.6.1: Major mode for editing systemd units
 app-emacs/tablist 1.0: Extended tabulated-list-mode
