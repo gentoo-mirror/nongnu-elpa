@@ -12,7 +12,7 @@ inherit g-sorcery gs-elpa
 
 DESCRIPTION="On-the-fly syntax checking"
 
-HOMEPAGE="http://www.flycheck.org"
+HOMEPAGE="https://www.flycheck.org"
 SRC_URI="${REPO_URI}${REALNAME}-${PV}.${SUFFIX}"
 
 SLOT="0"
