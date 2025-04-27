@@ -41,7 +41,7 @@ app-emacs/denote-refs 0.1.2: Show links and backlinks in Denote notes
 app-emacs/devhelp 1.0: Browse documentation in Devhelp format
 app-emacs/devil 0.6.0: Minor mode for translating key sequences
 app-emacs/diff-ansi 0.2: Display diff's using alternative diffing tools
-app-emacs/dirvish 2.2.7: A modern file manager based on dired mode
+app-emacs/dirvish 2.3.0: A modern file manager based on dired mode
 app-emacs/doc-show-inline 0.1: Show doc-strings found in external files
 app-emacs/dockerfile-mode 1.9: Major mode for editing Docker's Dockerfiles
 app-emacs/dracula-theme 1.8.2: Dracula Theme
