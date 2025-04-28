@@ -19,6 +19,8 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/transient
-	app-emacs/compat"
+	app-emacs/compat
+	app-emacs/markdown-mode"
 RDEPEND="app-emacs/transient
-	app-emacs/compat"
+	app-emacs/compat
+	app-emacs/markdown-mode"
