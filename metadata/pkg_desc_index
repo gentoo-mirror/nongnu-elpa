@@ -141,7 +141,7 @@ app-emacs/loopy-dash 0.13.0: Dash destructuring for `loopy'
 app-emacs/lorem-ipsum 0.4: Insert dummy pseudo Latin text
 app-emacs/lua-mode 20221027: a major-mode for editing Lua scripts
 app-emacs/macrostep 0.9.5: Interactive macro expander
-app-emacs/magit 4.3.2: A Git porcelain inside Emacs
+app-emacs/magit 4.3.5: A Git porcelain inside Emacs
 app-emacs/magit-section 4.3.5: Sections for read-only buffers
 app-emacs/markdown-mode 2.7: Major mode for Markdown-formatted text
 app-emacs/mastodon 2.0.0: Client for fediverse services using the Mastodon API
@@ -184,7 +184,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.9.1: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20250514.102731: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20250519.91508: Racket editing, REPL, and more
 app-emacs/radio 0.4.1: Listen to Internet radio
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
