@@ -184,7 +184,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.9.1: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20250519.91508: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20250521.90337: Racket editing, REPL, and more
 app-emacs/radio 0.4.1: Listen to Internet radio
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
