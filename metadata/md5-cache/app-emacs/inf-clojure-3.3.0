@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure install postinst postrm prepare setup test unpack
 DEPEND=app-emacs/clojure-mode
-DESCRIPTION=Run an external Clojure process in an Emacs buffer
+DESCRIPTION=Basic interaction with a Clojure REPL
 EAPI=8
 HOMEPAGE=http://github.com/clojure-emacs/inf-clojure
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=app-emacs/clojure-mode >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://elpa.nongnu.org/nongnu/inf-clojure-3.2.1.tar
+SRC_URI=https://elpa.nongnu.org/nongnu/inf-clojure-3.3.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	2a0fa407d2e6363c663ccb299503b25c	elisp	fbefa95f5e9ab880a34bc69832b7c0d7	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=243bd6baffaf696b330a2c6c70867d74
+_md5_=44b111b96b93d6b92b2243ff49a223ab
