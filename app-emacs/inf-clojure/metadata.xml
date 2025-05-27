@@ -5,5 +5,5 @@
 		<email>gentoo@houseofsuns.org</email>
 		<name>Markus Walter</name>
 	</maintainer>
-	<longdescription>Run an external Clojure process in an Emacs buffer</longdescription>
+	<longdescription>Basic interaction with a Clojure REPL</longdescription>
 </pkgmetadata>
