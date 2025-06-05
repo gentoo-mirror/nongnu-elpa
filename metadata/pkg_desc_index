@@ -26,7 +26,7 @@ app-emacs/caml 4.9: Caml mode for GNU Emacs
 app-emacs/cdlatex 4.18.5: Fast input methods for LaTeX environments and math
 app-emacs/cider 1.18.0: Clojure Interactive Development Environment that Rocks
 app-emacs/clojure-mode 5.20.0: Major mode for Clojure code
-app-emacs/clojure-ts-mode 0.4.0: Major mode for Clojure code
+app-emacs/clojure-ts-mode 0.5.0: Major mode for Clojure code
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
 app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
 app-emacs/corfu-terminal 0.7: Corfu popup on terminal
@@ -98,7 +98,7 @@ app-emacs/git-modes 1.4.5: Major modes for editing Git configuration files
 app-emacs/gnosis 0.4.10: Spaced Repetition System
 app-emacs/gnu-apl-mode 1.5.1: Emacs mode for GNU APL
 app-emacs/gnu-indent 1.0: Indent your code with GNU Indent
-app-emacs/gnuplot 0.9: Major-mode and interactive frontend for gnuplot
+app-emacs/gnuplot 0.10: Major-mode and interactive frontend for gnuplot
 app-emacs/go-mode 1.6.0: Major mode for the Go programming language
 app-emacs/golden-ratio 1.0.1: Automatic resizing of Emacs windows to the golden ratio
 app-emacs/gotham-theme 1.1.9: A very dark Emacs color theme
@@ -111,7 +111,7 @@ app-emacs/guru-mode 1.0: Become an Emacs guru
 app-emacs/haml-mode 3.2.1: Major mode for editing Haml files
 app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
-app-emacs/haskell-ts-mode 1.2.0: A treesit based major mode for haskell
+app-emacs/haskell-ts-mode 1.2.1: A treesit based major mode for haskell
 app-emacs/helm 4.0.3: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-core 4.0.3: Development files for Helm
 app-emacs/hideshowvis 0.8: Fringe markers for regions foldable by hideshow.el
@@ -184,7 +184,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.9.1: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20250522.142050: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20250603.110418: Racket editing, REPL, and more
 app-emacs/radio 0.4.1: Listen to Internet radio
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
