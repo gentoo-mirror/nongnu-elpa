@@ -13,7 +13,7 @@ app-emacs/auto-dim-other-buffers 2.2.1: Makes windows without focus less promine
 app-emacs/autothemer 0.2.18: Conveniently define themes
 app-emacs/base32 1.0: Base32 support
 app-emacs/bash-completion 3.2: Bash completion for the shell buffer
-app-emacs/beancount 0.9: A major mode to edit Beancount input files.
+app-emacs/beancount 0.9.0: A major mode to edit Beancount input files.
 app-emacs/better-jumper 1.0.1: configurable jump list
 app-emacs/bind-map 1.1.2: Bind personal keymaps in multiple locations
 app-emacs/bison-mode 0.4: Major mode for editing bison, yacc and lex files.
@@ -103,7 +103,7 @@ app-emacs/go-mode 1.6.0: Major mode for the Go programming language
 app-emacs/golden-ratio 1.0.1: Automatic resizing of Emacs windows to the golden ratio
 app-emacs/gotham-theme 1.1.9: A very dark Emacs color theme
 app-emacs/goto-chg 1.7.5: Go to last change
-app-emacs/gptel 0.9.8: Interact with ChatGPT or other LLMs
+app-emacs/gptel 0.9.8.5: Interact with ChatGPT or other LLMs
 app-emacs/graphql-mode 1.0.0: Major mode for editing GraphQL schemas
 app-emacs/gruber-darker-theme 0.7: Gruber Darker color theme for Emacs 24.
 app-emacs/gruvbox-theme 1.30.1: A retro-groove colour theme for Emacs
@@ -184,7 +184,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.9.1: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20250605.164918: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20250609.112224: Racket editing, REPL, and more
 app-emacs/radio 0.4.1: Listen to Internet radio
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
