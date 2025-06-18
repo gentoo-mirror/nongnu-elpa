@@ -95,7 +95,7 @@ app-emacs/geiser-mit 0.15: MIT/GNU Scheme's implementation of the geiser protoco
 app-emacs/geiser-racket 0.16: Support for Racket in Geiser
 app-emacs/geiser-stklos 1.8: STklos Scheme implementation of the geiser protocols
 app-emacs/git-modes 1.4.5: Major modes for editing Git configuration files
-app-emacs/gnosis 0.4.10: Spaced Repetition System
+app-emacs/gnosis 0.5.0: Spaced Repetition System
 app-emacs/gnu-apl-mode 1.5.1: Emacs mode for GNU APL
 app-emacs/gnu-indent 1.0: Indent your code with GNU Indent
 app-emacs/gnuplot 0.11: Major-mode and interactive frontend for gnuplot
