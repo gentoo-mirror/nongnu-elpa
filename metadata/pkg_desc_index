@@ -95,7 +95,7 @@ app-emacs/geiser-mit 0.15: MIT/GNU Scheme's implementation of the geiser protoco
 app-emacs/geiser-racket 0.16: Support for Racket in Geiser
 app-emacs/geiser-stklos 1.8: STklos Scheme implementation of the geiser protocols
 app-emacs/git-modes 1.4.5: Major modes for editing Git configuration files
-app-emacs/gnosis 0.5.0: Spaced Repetition System
+app-emacs/gnosis 0.5.1: Spaced Repetition System
 app-emacs/gnu-apl-mode 1.5.1: Emacs mode for GNU APL
 app-emacs/gnu-indent 1.0: Indent your code with GNU Indent
 app-emacs/gnuplot 0.11: Major-mode and interactive frontend for gnuplot
@@ -112,8 +112,8 @@ app-emacs/haml-mode 3.2.1: Major mode for editing Haml files
 app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
 app-emacs/haskell-ts-mode 1.2.1: A treesit based major mode for haskell
-app-emacs/helm 4.0.3: Helm is an Emacs incremental and narrowing framework
-app-emacs/helm-core 4.0.3: Development files for Helm
+app-emacs/helm 4.0.4: Helm is an Emacs incremental and narrowing framework
+app-emacs/helm-core 4.0.4: Development files for Helm
 app-emacs/hideshowvis 0.8: Fringe markers for regions foldable by hideshow.el
 app-emacs/highlight-parentheses 2.2.2: Highlight surrounding parentheses
 app-emacs/hl-block-mode 0.2: Highlighting nested blocks
