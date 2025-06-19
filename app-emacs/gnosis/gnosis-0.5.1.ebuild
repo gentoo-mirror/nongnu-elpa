@@ -20,7 +20,9 @@ KEYWORDS="~amd64 ~x86"
 
 DEPEND="app-emacs/emacsql
 	app-emacs/compat
-	app-emacs/transient"
+	app-emacs/transient
+	app-emacs/org-gnosis"
 RDEPEND="app-emacs/emacsql
 	app-emacs/compat
-	app-emacs/transient"
+	app-emacs/transient
+	app-emacs/org-gnosis"
