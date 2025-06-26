@@ -44,7 +44,7 @@ app-emacs/diff-ansi 0.2: Display diff's using alternative diffing tools
 app-emacs/dirvish 2.3.0: A modern file manager based on dired mode
 app-emacs/doc-show-inline 0.1: Show doc-strings found in external files
 app-emacs/dockerfile-mode 1.9: Major mode for editing Docker's Dockerfiles
-app-emacs/dracula-theme 1.8.2: Dracula Theme
+app-emacs/dracula-theme 1.8.3: Dracula Theme
 app-emacs/drupal-mode 0.8.1: Advanced minor mode for Drupal development
 app-emacs/dslide 0.6.2: Domain Specific sLIDEs. Programmable Presentation
 app-emacs/eat 0.9.4: Emulate A Terminal, in a region, in a buffer and in Eshell
