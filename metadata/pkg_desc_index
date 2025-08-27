@@ -28,6 +28,7 @@ app-emacs/cider 1.19.0: Clojure Interactive Development Environment that Rocks
 app-emacs/clojure-mode 5.20.0: Major mode for Clojure code
 app-emacs/clojure-ts-mode 0.5.1: Major mode for Clojure code
 app-emacs/coffee-mode 0.6.3: Major mode for CoffeeScript code
+app-emacs/cond-let 0.1.0: Additional and improved binding conditionals
 app-emacs/consult-flycheck 1.0: Provides the command `consult-flycheck'
 app-emacs/corfu-terminal 0.7: Corfu popup on terminal
 app-emacs/crux 0.5.0: A Collection of Ridiculously Useful eXtensions
@@ -186,7 +187,7 @@ app-emacs/popup 0.5.9: Visual Popup User Interface
 app-emacs/projectile 2.9.1: Manage and navigate projects in Emacs easily
 app-emacs/proofgeneral 4.5: A generic Emacs interface for proof assistants
 app-emacs/prop-menu 0.1.2: Create and display a context menu based on text and overlay properties
-app-emacs/racket-mode 1.0.20250711.83643: Racket editing, REPL, and more
+app-emacs/racket-mode 1.0.20250827.113314: Racket editing, REPL, and more
 app-emacs/radio 0.4.1: Listen to Internet radio
 app-emacs/rainbow-delimiters 2.1.5: Highlight brackets according to their depth
 app-emacs/raku-mode 0.2.1: Major mode for editing Raku code
@@ -238,7 +239,7 @@ app-emacs/undo-fu-session 0.7: Persistent undo, available between sessions
 app-emacs/vc-fossil 20230504: VC backend for the fossil sofware configuraiton management system
 app-emacs/vcomplete 2.0: Visual completions
 app-emacs/visual-fill-column 2.6.3: fill-column for visual-line-mode
-app-emacs/web-mode 17.3.21: major mode for editing web templates
+app-emacs/web-mode 17.3.22: major mode for editing web templates
 app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wfnames 1.2: Edit filenames
 app-emacs/wgrep 3.0.0: Writable grep buffer and apply the changes to files
