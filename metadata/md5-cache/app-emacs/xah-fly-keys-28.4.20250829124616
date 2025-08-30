@@ -7,6 +7,6 @@ INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
 RDEPEND=>=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://elpa.nongnu.org/nongnu/xah-fly-keys-28.4.20250825201039.tar
+SRC_URI=https://elpa.nongnu.org/nongnu/xah-fly-keys-28.4.20250829124616.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
 _md5_=a66ff245d0ab1a5c0e933fa78ccc1a4c
