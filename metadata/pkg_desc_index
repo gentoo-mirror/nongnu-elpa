@@ -55,7 +55,7 @@ app-emacs/eglot-inactive-regions 0.6.5: Highlight inactive code regions with egl
 app-emacs/eldoc-diffstat 1.0: Make VCS diffstat available via eldoc
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
 app-emacs/elpher 3.6.5: A friendly gopher and gemini client
-app-emacs/emacsql 4.3.1: High-level SQL database front-end
+app-emacs/emacsql 4.3.2: High-level SQL database front-end
 app-emacs/engine-mode 2.2.4: Define and query search engines
 app-emacs/evil 1.15.0: extensible vi layer
 app-emacs/evil-anzu 0.2: anzu for evil-mode
@@ -96,7 +96,7 @@ app-emacs/geiser-kawa 0.0.1: Kawa scheme support for Geiser
 app-emacs/geiser-mit 0.15: MIT/GNU Scheme's implementation of the geiser protocols
 app-emacs/geiser-racket 0.16: Support for Racket in Geiser
 app-emacs/geiser-stklos 1.8: STklos Scheme implementation of the geiser protocols
-app-emacs/git-modes 1.4.5: Major modes for editing Git configuration files
+app-emacs/git-modes 1.4.6: Major modes for editing Git configuration files
 app-emacs/gnosis 0.5.5: Spaced Repetition System
 app-emacs/gnu-apl-mode 1.5.1: Emacs mode for GNU APL
 app-emacs/gnu-indent 1.0: Indent your code with GNU Indent
@@ -105,7 +105,7 @@ app-emacs/go-mode 1.6.0: Major mode for the Go programming language
 app-emacs/golden-ratio 1.0.1: Automatic resizing of Emacs windows to the golden ratio
 app-emacs/gotham-theme 1.1.9: A very dark Emacs color theme
 app-emacs/goto-chg 1.7.5: Go to last change
-app-emacs/gptel 0.9.8.5: Interact with ChatGPT or other LLMs
+app-emacs/gptel 0.9.9: Interact with ChatGPT or other LLMs
 app-emacs/graphql-mode 1.0.0: Major mode for editing GraphQL schemas
 app-emacs/gruber-darker-theme 0.7: Gruber Darker color theme for Emacs 24.
 app-emacs/gruvbox-theme 1.30.1: A retro-groove colour theme for Emacs
@@ -134,9 +134,9 @@ app-emacs/j-mode 2.0.1: Major mode for editing J programs
 app-emacs/jade-mode 1.0.1: Major mode for editing .jade files
 app-emacs/jinja2-mode 0.3: A major mode for jinja2
 app-emacs/julia-mode 1.0.2: Major mode for editing Julia source code
-app-emacs/keycast 1.4.4: Show current command and its binding
+app-emacs/keycast 1.4.5: Show current command and its binding
 app-emacs/kotlin-mode 2.0.0: Major mode for kotlin
-app-emacs/llama 1.0.0: Compact syntax for short lambda
+app-emacs/llama 1.0.1: Compact syntax for short lambda
 app-emacs/logview 0.19.2: Major mode for viewing log files
 app-emacs/loopy 0.14.0: A looping macro
 app-emacs/loopy-dash 0.13.0: Dash destructuring for `loopy'
@@ -166,10 +166,10 @@ app-emacs/org-drill 2.7.0: Self-testing using spaced repetition
 app-emacs/org-journal 2.2.0: a simple org-mode based journaling mode
 app-emacs/org-mime 0.3.4: org html export for text/html MIME emails
 app-emacs/org-present 0.1: Minimalist presentation minor-mode for Emacs org-mode.
-app-emacs/org-superstar-mode 1.6.0: Prettify headings and plain lists in Org mode
+app-emacs/org-superstar-mode 1.6.1: Prettify headings and plain lists in Org mode
 app-emacs/org-transclusion-http 0.4: Transclude over HTTP
 app-emacs/org-tree-slide 2.8.22: A presentation tool for org-mode
-app-emacs/orgit 2.0.3: Support for Org links to Magit buffers
+app-emacs/orgit 2.0.5: Support for Org links to Magit buffers
 app-emacs/p4-16-mode 0.3: Support for the P4_16 programming language
 app-emacs/package-lint 0.26: A linting library for elisp package authors
 app-emacs/pacmacs 0.1.1: Pacman for Emacs
@@ -244,7 +244,7 @@ app-emacs/webpaste 3.2.2: Paste to pastebin-like services
 app-emacs/wfnames 1.2: Edit filenames
 app-emacs/wgrep 3.0.0: Writable grep buffer and apply the changes to files
 app-emacs/why-this 2.0.4: Why is this line here? Ask version control
-app-emacs/with-editor 3.4.5: Use the Emacsclient as $EDITOR
+app-emacs/with-editor 3.4.6: Use the Emacsclient as $EDITOR
 app-emacs/with-simulated-input 3.0: A macro to simulate user input non-interactively
 app-emacs/workroom 2.3.1: Named rooms for work without irrelevant distracting buffers
 app-emacs/writegood-mode 2.2.0: Polish up poor writing on the fly
