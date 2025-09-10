@@ -1,13 +1,13 @@
 BDEPEND=>=app-editors/emacs-25.3:*
 DEFINED_PHASES=compile configure info install postinst postrm prepare setup test unpack
-DEPEND=app-emacs/compat app-emacs/llama app-emacs/magit-section app-emacs/seq app-emacs/transient app-emacs/with-editor
-DESCRIPTION=A Git porcelain inside Emacs
+DEPEND=app-emacs/compat app-emacs/cond-let app-emacs/llama app-emacs/seq
+DESCRIPTION=Sections for read-only buffers
 EAPI=8
 HOMEPAGE=https://github.com/magit/magit
 INHERIT=g-sorcery gs-elpa
 KEYWORDS=~amd64 ~x86
-RDEPEND=app-emacs/compat app-emacs/llama app-emacs/magit-section app-emacs/seq app-emacs/transient app-emacs/with-editor >=app-editors/emacs-25.3:*
+RDEPEND=app-emacs/compat app-emacs/cond-let app-emacs/llama app-emacs/seq >=app-editors/emacs-25.3:*
 SLOT=0
-SRC_URI=https://elpa.nongnu.org/nongnu/magit-4.3.8.tar
+SRC_URI=https://elpa.nongnu.org/nongnu/magit-section-4.4.0.tar
 _eclasses_=g-sorcery	692c9ad583c66d03e7c0e8b3b106a435	elisp-common	fe05085d051330f15cf7201109b5cd23	elisp	8dfc7a00348fe9c91895014adc78a4a5	gs-elpa	df4b672ca6bb8e009e294018c3bee8bf
-_md5_=1c4541015998219a73c20c005cb7b00f
+_md5_=066741cc5033630b110e6971edda8d6d
