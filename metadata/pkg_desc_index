@@ -113,7 +113,7 @@ app-emacs/guru-mode 1.0: Become an Emacs guru
 app-emacs/haml-mode 3.2.1: Major mode for editing Haml files
 app-emacs/haskell-mode 17.5: A Haskell editing mode
 app-emacs/haskell-tng-mode 0.0.1: Major mode for editing Haskell
-app-emacs/haskell-ts-mode 1.3.2: A treesit based major mode for haskell
+app-emacs/haskell-ts-mode 1.3.3: A treesit based major mode for haskell
 app-emacs/helm 4.0.6: Helm is an Emacs incremental and narrowing framework
 app-emacs/helm-core 4.0.6: Development files for Helm
 app-emacs/hideshowvis 0.8: Fringe markers for regions foldable by hideshow.el
@@ -180,7 +180,7 @@ app-emacs/parseedn 1.2.1: Clojure/EDN parser
 app-emacs/pcmpl-args 0.1.3: Enhanced shell command completion
 app-emacs/pcre2el 1.12: regexp syntax converter
 app-emacs/pdf-tools 1.1.0: Support library for PDF documents
-app-emacs/pg 0.59: Socket-level interface to the PostgreSQL database
+app-emacs/pg 0.60: Socket-level interface to the PostgreSQL database
 app-emacs/php-mode 1.26.1: Major mode for editing PHP code
 app-emacs/popon 0.13: "Pop" floating text "on" a window
 app-emacs/popup 0.5.9: Visual Popup User Interface
