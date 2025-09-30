@@ -54,7 +54,7 @@ app-emacs/editorconfig 0.11.0: EditorConfig Emacs Plugin
 app-emacs/eglot-inactive-regions 0.6.5: Highlight inactive code regions with eglot power
 app-emacs/eldoc-diffstat 1.0: Make VCS diffstat available via eldoc
 app-emacs/elixir-mode 2.5.0: Major mode for editing Elixir files
-app-emacs/elpher 3.6.5: A friendly gopher and gemini client
+app-emacs/elpher 3.6.6: A friendly gopher and gemini client
 app-emacs/emacsql 4.3.2: High-level SQL database front-end
 app-emacs/engine-mode 2.2.4: Define and query search engines
 app-emacs/evil 1.15.0: extensible vi layer
