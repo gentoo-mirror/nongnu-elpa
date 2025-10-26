@@ -97,7 +97,7 @@ app-emacs/geiser-mit 0.15: MIT/GNU Scheme's implementation of the geiser protoco
 app-emacs/geiser-racket 0.16: Support for Racket in Geiser
 app-emacs/geiser-stklos 1.8: STklos Scheme implementation of the geiser protocols
 app-emacs/git-modes 1.4.6: Major modes for editing Git configuration files
-app-emacs/gnosis 0.5.6: Spaced Repetition System
+app-emacs/gnosis 0.5.7: Spaced Repetition System
 app-emacs/gnu-apl-mode 1.5.1: Emacs mode for GNU APL
 app-emacs/gnu-indent 1.0: Indent your code with GNU Indent
 app-emacs/gnuplot 0.11: Major-mode and interactive frontend for gnuplot
@@ -146,7 +146,7 @@ app-emacs/macrostep 0.9.5: Interactive macro expander
 app-emacs/magit 4.4.2: A Git porcelain inside Emacs
 app-emacs/magit-section 4.4.2: Sections for read-only buffers
 app-emacs/markdown-mode 2.7: Major mode for Markdown-formatted text
-app-emacs/mastodon 2.0.3: Client for fediverse services using the Mastodon API
+app-emacs/mastodon 2.0.5: Client for fediverse services using the Mastodon API
 app-emacs/material-theme 2015: A Theme based on the colors of the Google Material Design
 app-emacs/mentor 0.5: Frontend for the rTorrent bittorrent client
 app-emacs/meow 1.5.0: Yet Another modal editing
